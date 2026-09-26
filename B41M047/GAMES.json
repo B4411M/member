@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Cult%20of%20the%20Lamb%20-%20[EU]%20[EN]%20[1.29].pkg": {
+      "title_id": "CUSA32184",
+      "region": "EUR",
+      "name": "Cult of the Lamb",
+      "version": "01.29",
+      "release": "11-15-2013",
+      "size": 4415946752,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32184.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Cuphead%20-%20[US]%20[EN]%20[1.05].pkg": {
+      "title_id": "CUSA20499",
+      "region": "USA",
+      "name": "Cuphead",
+      "version": "01.05",
+      "release": "11-15-2013",
+      "size": 5418582016,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20499.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Cyberpunk%202077%20-%20[EU]%20[EN]%20[1.31].pkg": {
+      "title_id": "CUSA16579",
+      "region": "EUR",
+      "name": "Cyberpunk 2077",
+      "version": "01.31",
+      "release": "11-15-2013",
+      "size": 59416903680,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16579.png"
+    }
+  }
+}

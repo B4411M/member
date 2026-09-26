@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Batman%20Arkham%20Asylum%20-%20[US]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA04744",
+      "region": "USA",
+      "name": "Batman: Arkham Asylum",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 18395299840,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04744.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Batman%20Arkham%20City%20-%20[US]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA04602",
+      "region": "USA",
+      "name": "Batman: Arkham City",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 27921285120,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04602.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%201%20-%20[US]%20[EN]%20[1.27].pkg": {
+      "title_id": "CUSA02429",
+      "region": "USA",
+      "name": "Battlefield\u2122 1",
+      "version": "01.27",
+      "release": "11-15-2013",
+      "size": 71635763200,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02429.png"
+    }
+  }
+}

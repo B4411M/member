@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Island%20-%20[EU]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA03291",
+      "region": "EUR",
+      "name": "Dead Island",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 4719443968,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03291.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Island%202%20-%20[EU]%20[EN]%20[1.10].pkg": {
+      "title_id": "CUSA27043",
+      "region": "EUR",
+      "name": "Dead Island 2",
+      "version": "01.10",
+      "release": "11-15-2013",
+      "size": 24618860544,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27043.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Island%20Riptide%20-%20[EU]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA03290",
+      "region": "EUR",
+      "name": "Dead Island: Riptide",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 4803592192,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03290.png"
+    }
+  }
+}

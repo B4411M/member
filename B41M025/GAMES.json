@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Blair%20Witch%20-%20[EU]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA18085",
+      "region": "EUR",
+      "name": "Blair Witch",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 10741284864,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18085.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Blasphemous%20-%20[US]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA16275",
+      "region": "USA",
+      "name": "Blasphemous",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 1253965824,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16275.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Blasphemous%202%20-%20[EU]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA44317",
+      "region": "EUR",
+      "name": "Blasphemous 2",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 2814967808,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA44317.png"
+    }
+  }
+}

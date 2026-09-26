@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DRAGON%20BALL%20FighterZ%20-%20[EU]%20[EN]%20[1.38].pkg": {
+      "title_id": "CUSA08992",
+      "region": "EUR",
+      "name": "DRAGON BALL FighterZ",
+      "version": "01.38",
+      "release": "11-15-2013",
+      "size": 5764087808,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08992.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DRAGON%20BALL%20XENOVERSE%20-%20[EU]%20[EN]%20[1.07].pkg": {
+      "title_id": "CUSA01186",
+      "region": "EUR",
+      "name": "DRAGON BALL XENOVERSE",
+      "version": "01.07",
+      "release": "11-15-2013",
+      "size": 10231742464,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01186.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DRAGON%20BALL%20XENOVERSE%202%20-%20[EU]%20[EN]%20[1.45].pkg": {
+      "title_id": "CUSA05088",
+      "region": "EUR",
+      "name": "DRAGON BALL XENOVERSE 2",
+      "version": "01.45",
+      "release": "11-15-2013",
+      "size": 23551868928,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05088.png"
+    }
+  }
+}

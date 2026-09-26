@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Back%20to%20Bed%20-%20[US]%20[EN]%20[1.01].pkg": {
+      "title_id": "CUSA02537",
+      "region": "USA",
+      "name": "Back to Bed",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 245760000,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02537.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Backbone%20-%20[US]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA27222",
+      "region": "USA",
+      "name": "Backbone",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 2307194880,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA27222.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Bad%20North%20-%20[EU]%20[EN]%20[2.00].pkg": {
+      "title_id": "CUSA10606",
+      "region": "EUR",
+      "name": "Bad North",
+      "version": "02.00",
+      "release": "11-15-2013",
+      "size": 261619712,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10606.png"
+    }
+  }
+}

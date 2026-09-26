@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%204%20-%20[EU]%20[EN]%20[1.24].pkg": {
+      "title_id": "CUSA00049",
+      "region": "EUR",
+      "name": "Battlefield 4\u2122",
+      "version": "01.24",
+      "release": "11-15-2013",
+      "size": 32466010112,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00049.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%20Hardline%20-%20[EU]%20[EN]%20[1.09].pkg": {
+      "title_id": "CUSA00633",
+      "region": "EUR",
+      "name": "Battlefield\u2122 Hardline",
+      "version": "01.09",
+      "release": "11-15-2013",
+      "size": 35746217984,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00633.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%20V%20-%20[US]%20[EN]%20[1.38].pkg": {
+      "title_id": "CUSA08724",
+      "region": "USA",
+      "name": "Battlefield\u2122 V",
+      "version": "01.38",
+      "release": "11-15-2013",
+      "size": 82267144192,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08724.png"
+    }
+  }
+}

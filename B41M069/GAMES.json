@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Disney%20Epic%20Mickey%20-%20[EU]%20[EN]%20[1.05].pkg": {
+      "title_id": "CUSA42649",
+      "region": "EUR",
+      "name": "Disney Epic Mickey",
+      "version": "01.05",
+      "release": "11-15-2013",
+      "size": 11774132224,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA42649.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Divinity%20Original%20Sin%20-%20[EU]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA02762",
+      "region": "EUR",
+      "name": "Divinity: Original Sin",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 8355905536,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02762.png"
+    }
+  }
+}

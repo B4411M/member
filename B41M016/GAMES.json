@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-a/Axiom%20Verge%202%20-%20[US]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA29346",
+      "region": "USA",
+      "name": "Axiom Verge 2",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 208404480,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29346.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/BALAN%20WONDERWORLD%20-%20[EU]%20[EN]%20[1.01].pkg": {
+      "title_id": "CUSA24813",
+      "region": "EUR",
+      "name": "BALAN WONDERWORLD",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 10193141760,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24813.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/BATMAN%20ARKHAM%20KNIGHT%20-%20[EU]%20[EN]%20[1.18].pkg": {
+      "title_id": "CUSA00135",
+      "region": "EUR",
+      "name": "BATMAN\u2122: ARKHAM KNIGHT",
+      "version": "01.18",
+      "release": "11-15-2013",
+      "size": 54396387328,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00135.png"
+    }
+  }
+}

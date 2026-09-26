@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-a/Attack%20On%20Titan%202%20-%20[US]%20[EN]%20[1.11].pkg": {
+      "title_id": "CUSA08956",
+      "region": "USA",
+      "name": "Attack On Titan 2",
+      "version": "01.11",
+      "release": "11-15-2013",
+      "size": 33302052864,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08956.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-a/Attack%20on%20Titan%20-%20[US]%20[EN]%20[1.00].pkg": {
+      "title_id": "CUSA03804",
+      "region": "USA",
+      "name": "Attack on Titan",
+      "version": "01.00",
+      "release": "11-15-2013",
+      "size": 13694533632,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03804.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-a/Axiom%20Verge%20-%20[US]%20[EN]%20[1.07].pkg": {
+      "title_id": "CUSA01230",
+      "region": "USA",
+      "name": "Axiom Verge",
+      "version": "01.07",
+      "release": "11-15-2013",
+      "size": 172097536,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01230.png"
+    }
+  }
+}

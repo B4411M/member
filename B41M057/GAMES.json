@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Darksiders%20Genesis%20-%20[EU]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA12979",
+      "region": "EUR",
+      "name": "Darksiders Genesis",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 9010937856,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12979.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Darksiders%20II%20-%20[EU]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA02419",
+      "region": "EUR",
+      "name": "Darksiders II",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 13750566912,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02419.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Darksiders%20III%20-%20[EU]%20[EN]%20[1.11].pkg": {
+      "title_id": "CUSA08798",
+      "region": "EUR",
+      "name": "Darksiders III",
+      "version": "01.11",
+      "release": "11-15-2013",
+      "size": 22828810240,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08798.png"
+    }
+  }
+}

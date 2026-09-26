@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Destroy%20All%20Humans!%20-%20[US]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA14899",
+      "region": "USA",
+      "name": "Destroy All Humans!",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 16655056896,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14899.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Destroy%20All%20Humans!%202%20-%20[EU]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA36167",
+      "region": "EUR",
+      "name": "Destroy All Humans! 2",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 21429551104,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA36167.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Detroit%20Become%20Human%20-%20[US]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA08344",
+      "region": "USA",
+      "name": "Detroit: Become Human\u2122",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 43060625408,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08344.png"
+    }
+  }
+}

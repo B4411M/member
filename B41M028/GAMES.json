@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Braid%20-%20[US]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA12312",
+      "region": "USA",
+      "name": "Braid",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 2302869504,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12312.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Bramble%20The%20Mountain%20King%20-%20[EU]%20[EN]%20[1.01].pkg": {
+      "title_id": "CUSA35719",
+      "region": "EUR",
+      "name": "Bramble The Mountain King",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 6807945216,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35719.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-b/Brawlhalla%20-%20[EU]%20[EN]%20[10.50].pkg": {
+      "title_id": "CUSA05330",
+      "region": "EUR",
+      "name": "Brawlhalla",
+      "version": "01.50",
+      "release": "11-15-2013",
+      "size": 716898304,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05330.png"
+    }
+  }
+}

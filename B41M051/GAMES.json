@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DOOM%20-%20[EU]%20[EN]%20[1.12].pkg": {
+      "title_id": "CUSA02092",
+      "region": "EUR",
+      "name": "DOOM",
+      "version": "01.12",
+      "release": "11-15-2013",
+      "size": 53467021312,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02092.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DOOM%202%20(1994)%20-%20[US]%20[EN]%20[1.08].pkg": {
+      "title_id": "CUSA15595",
+      "region": "USA",
+      "name": "DOOM 2 (1994)",
+      "version": "01.08",
+      "release": "11-15-2013",
+      "size": 508952576,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA15595.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DOOM%20Eternal%20-%20[US]%20[EN]%20[1.26].pkg": {
+      "title_id": "CUSA13338",
+      "region": "USA",
+      "name": "DOOM Eternal",
+      "version": "01.26",
+      "release": "11-15-2013",
+      "size": 93375954944,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13338.png"
+    }
+  }
+}

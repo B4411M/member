@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Nation%20-%20[US]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA00236",
+      "region": "USA",
+      "name": "Dead Nation\u2122",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 2337538048,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00236.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Rising%202%20-%20[US]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA04313",
+      "region": "USA",
+      "name": "Dead Rising 2",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 8105361408,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04313.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Rising%202%20Off%20The%20Record%20-%20[US]%20[EN]%20[1.02].pkg": {
+      "title_id": "CUSA04273",
+      "region": "USA",
+      "name": "Dead Rising 2: Off The Record",
+      "version": "01.02",
+      "release": "11-15-2013",
+      "size": 6202327040,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04273.png"
+    }
+  }
+}

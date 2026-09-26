@@ -1,0 +1,34 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%20-%20[EU]%20[EN]%20[1.03].pkg": {
+      "title_id": "CUSA18671",
+      "region": "EUR",
+      "name": "Crysis\u00ae",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 11297685504,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18671.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%202%20-%20[EU]%20[EN]%20[1.01].pkg": {
+      "title_id": "CUSA18672",
+      "region": "EUR",
+      "name": "Crysis2\u00ae",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 15788343296,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18672.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%203%20-%20[EU]%20[EN]%20[1.01].pkg": {
+      "title_id": "CUSA18673",
+      "region": "EUR",
+      "name": "Crysis3\u00ae",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 8560246784,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18673.png"
+    }
+  }
+}

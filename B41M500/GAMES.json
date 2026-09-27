@@ -63,7 +63,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/ACE%20COMBAT%207%20SKIES%20UNKNOWN%20-%20[EU]%20[EN]%20[2.20].pkg": {
       "title_id": "CUSA07202",
       "region": "EUR",
-      "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+      "name": "ACE COMBAT\u2122 7: SKIES UNKNOWN",
       "version": "02.20",
       "release": "11-15-2013",
       "size": 42170646528,
@@ -93,7 +93,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/ARMORED%20CORE%20VI%20FIRES%20OF%20RUBICON%20-%20[EU]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA32599",
       "region": "EUR",
-      "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+      "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 25085476864,
@@ -153,7 +153,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Alien%20Isolation%20-%20[EU]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA00362",
       "region": "EUR",
-      "name": "Alien: Isolation™",
+      "name": "Alien: Isolation\u2122",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 22549692416,
@@ -243,7 +243,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Chronicles%20Trilogy%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA03440",
       "region": "EUR",
-      "name": "Assassin’s Creed® Chronicles Trilogy",
+      "name": "Assassin\u2019s Creed\u00ae Chronicles Trilogy",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 11250958336,
@@ -253,7 +253,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20III%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA11560",
       "region": "EUR",
-      "name": "Assassin's Creed® III",
+      "name": "Assassin's Creed\u00ae III",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 36616667136,
@@ -263,7 +263,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20IV%20Black%20Flag%20-%20[EU]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA00009",
       "region": "EUR",
-      "name": "Assassin's Creed® IV Black Flag",
+      "name": "Assassin's Creed\u00ae IV Black Flag",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 23296475136,
@@ -273,7 +273,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Mirage%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA33151",
       "region": "EUR",
-      "name": "Assassin's Creed® Mirage",
+      "name": "Assassin's Creed\u00ae Mirage",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 39798374400,
@@ -283,7 +283,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Odyssey%20-%20[US]%20[EN]%20[1.56].pkg": {
       "title_id": "CUSA09311",
       "region": "USA",
-      "name": "Assassin's Creed® Odyssey",
+      "name": "Assassin's Creed\u00ae Odyssey",
       "version": "01.56",
       "release": "11-15-2013",
       "size": 97225015296,
@@ -293,7 +293,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Origins%20-%20[EU]%20[EN]%20[1.44].pkg": {
       "title_id": "CUSA05625",
       "region": "EUR",
-      "name": "Assassin's Creed® Origins",
+      "name": "Assassin's Creed\u00ae Origins",
       "version": "01.44",
       "release": "11-15-2013",
       "size": 70797033472,
@@ -303,7 +303,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Rogue%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA10123",
       "region": "EUR",
-      "name": "Assassin's Creed® Rogue",
+      "name": "Assassin's Creed\u00ae Rogue",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 8224833536,
@@ -313,7 +313,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Syndicate%20-%20[EU]%20[EN]%20[1.52].pkg": {
       "title_id": "CUSA02376",
       "region": "EUR",
-      "name": "Assassin's Creed® Syndicate",
+      "name": "Assassin's Creed\u00ae Syndicate",
       "version": "01.52",
       "release": "11-15-2013",
       "size": 58332938240,
@@ -333,7 +333,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Unity%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA00605",
       "region": "EUR",
-      "name": "Assassin's Creed® Unity",
+      "name": "Assassin's Creed\u00ae Unity",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 46284275712,
@@ -343,7 +343,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-a/Assassin's%20Creed%20Valhalla%20-%20[EU]%20[EN]%20[8.00].pkg": {
       "title_id": "CUSA18536",
       "region": "EUR",
-      "name": "Assassin's Creed® Valhalla",
+      "name": "Assassin's Creed\u00ae Valhalla",
       "version": "08.00",
       "release": "11-15-2013",
       "size": 91063386112,
@@ -460,7 +460,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29346.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-b/BALAN%20WONDERWORLD%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/BALAN%20WONDERWORLD%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA24813",
       "region": "EUR",
       "name": "BALAN WONDERWORLD",
@@ -473,7 +473,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/BATMAN%20ARKHAM%20KNIGHT%20-%20[EU]%20[EN]%20[1.18].pkg": {
       "title_id": "CUSA00135",
       "region": "EUR",
-      "name": "BATMAN™: ARKHAM KNIGHT",
+      "name": "BATMAN\u2122: ARKHAM KNIGHT",
       "version": "01.18",
       "release": "11-15-2013",
       "size": 54396387328,
@@ -483,7 +483,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/BATTLESHIP%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA04286",
       "region": "EUR",
-      "name": "BATTLESHIP®",
+      "name": "BATTLESHIP\u00ae",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 1246167040,
@@ -593,7 +593,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%201%20-%20[US]%20[EN]%20[1.27].pkg": {
       "title_id": "CUSA02429",
       "region": "USA",
-      "name": "Battlefield™ 1",
+      "name": "Battlefield\u2122 1",
       "version": "01.27",
       "release": "11-15-2013",
       "size": 71635763200,
@@ -603,7 +603,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%204%20-%20[EU]%20[EN]%20[1.24].pkg": {
       "title_id": "CUSA00049",
       "region": "EUR",
-      "name": "Battlefield 4™",
+      "name": "Battlefield 4\u2122",
       "version": "01.24",
       "release": "11-15-2013",
       "size": 32466010112,
@@ -613,7 +613,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%20Hardline%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA00633",
       "region": "EUR",
-      "name": "Battlefield™ Hardline",
+      "name": "Battlefield\u2122 Hardline",
       "version": "01.09",
       "release": "11-15-2013",
       "size": 35746217984,
@@ -623,7 +623,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Battlefield%20V%20-%20[US]%20[EN]%20[1.38].pkg": {
       "title_id": "CUSA08724",
       "region": "USA",
-      "name": "Battlefield™ V",
+      "name": "Battlefield\u2122 V",
       "version": "01.38",
       "release": "11-15-2013",
       "size": 82267144192,
@@ -673,7 +673,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Beyond%20Two%20Souls%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA00512",
       "region": "EUR",
-      "name": "Beyond: Two Souls™",
+      "name": "Beyond: Two Souls\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 24926748672,
@@ -753,7 +753,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Bloodborne%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA03173",
       "region": "EUR",
-      "name": "Bloodborne™",
+      "name": "Bloodborne\u2122",
       "version": "01.09",
       "release": "11-15-2013",
       "size": 28627435520,
@@ -773,7 +773,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Borderlands%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA10455",
       "region": "USA",
-      "name": "Borderlands®",
+      "name": "Borderlands\u00ae",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 10584588288,
@@ -793,7 +793,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-b/Borderlands%203%20-%20[US]%20[EN]%20[1.30].pkg": {
       "title_id": "CUSA07823",
       "region": "USA",
-      "name": "Borderlands® 3",
+      "name": "Borderlands\u00ae 3",
       "version": "01.30",
       "release": "11-15-2013",
       "size": 56100192256,
@@ -900,7 +900,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14925.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-c/CODE%20VEIN%20-%20[US]%20[EN]%20[1.53].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-c/CODE%20VEIN%20-%20[US]%20[EN]%20[1.53].pkg": {
       "title_id": "CUSA10410",
       "region": "USA",
       "name": "CODE VEIN",
@@ -943,7 +943,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Advanced%20Warfare%20-%20[US]%20[EN]%20[1.24].pkg": {
       "title_id": "CUSA00803",
       "region": "USA",
-      "name": "Call of Duty®: Advanced Warfare",
+      "name": "Call of Duty\u00ae: Advanced Warfare",
       "version": "01.24",
       "release": "11-15-2013",
       "size": 66965143552,
@@ -953,7 +953,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%204%20-%20[US]%20[EN]%20[1.26].pkg": {
       "title_id": "CUSA11100",
       "region": "USA",
-      "name": "Call of Duty®: Black Ops 4",
+      "name": "Call of Duty\u00ae: Black Ops 4",
       "version": "01.26",
       "release": "11-15-2013",
       "size": 105904996352,
@@ -963,7 +963,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%206%20-%20[US]%20[EN]%20[1.58]%20[CP].pkg": {
       "title_id": "CUSA23827",
       "region": "USA",
-      "name": "Call of Duty® Black Ops 6",
+      "name": "Call of Duty\u00ae Black Ops 6",
       "version": "01.58",
       "release": "11-15-2013",
       "size": 44044189696,
@@ -973,7 +973,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%20Cold%20War%20-%20[US]%20[EN]%20[1.41].pkg": {
       "title_id": "CUSA15010",
       "region": "USA",
-      "name": "Call of Duty®: Black Ops Cold War",
+      "name": "Call of Duty\u00ae: Black Ops Cold War",
       "version": "01.41",
       "release": "11-15-2013",
       "size": 156407693312,
@@ -983,7 +983,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Black%20Ops%20III%20-%20[US]%20[EN]%20[1.33].pkg": {
       "title_id": "CUSA02290",
       "region": "USA",
-      "name": "Call of Duty®: Black Ops III",
+      "name": "Call of Duty\u00ae: Black Ops III",
       "version": "01.33",
       "release": "11-15-2013",
       "size": 102446333952,
@@ -993,7 +993,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Ghosts%20-%20[US]%20[EN]%20[1.21].pkg": {
       "title_id": "CUSA00018",
       "region": "USA",
-      "name": "Call of Duty® Ghosts",
+      "name": "Call of Duty\u00ae Ghosts",
       "version": "01.21",
       "release": "11-15-2013",
       "size": 45208698880,
@@ -1003,7 +1003,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Infinite%20Warfare%20-%20[US]%20[EN]%20[1.25].pkg": {
       "title_id": "CUSA04762",
       "region": "USA",
-      "name": "Call of Duty®: Infinite Warfare",
+      "name": "Call of Duty\u00ae: Infinite Warfare",
       "version": "01.25",
       "release": "11-15-2013",
       "size": 92160131072,
@@ -1013,7 +1013,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20(2007)%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA03522",
       "region": "USA",
-      "name": "Call of Duty®: Modern Warfare® (2007)",
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae (2007)",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 38878969856,
@@ -1023,7 +1023,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20-%20[US]%20[EN]%20[1.67].pkg": {
       "title_id": "CUSA08829",
       "region": "USA",
-      "name": "Call of Duty®: Modern Warfare®",
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae",
       "version": "01.67",
       "release": "11-15-2013",
       "size": 149985886208,
@@ -1033,7 +1033,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%202%20(2009)%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA07904",
       "region": "EUR",
-      "name": "Call of Duty®: Modern Warfare® 2 (2009)",
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 46195736576,
@@ -1043,7 +1043,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20II%20-%20[EU]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA34029",
       "region": "EUR",
-      "name": "Call of Duty®: Modern Warfare II",
+      "name": "Call of Duty\u00ae: Modern Warfare II",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 59535523840,
@@ -1053,7 +1053,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Modern%20Warfare%20III%20-%20[US]%20[EN]%20[1.33].pkg": {
       "title_id": "CUSA34083",
       "region": "USA",
-      "name": "Call of Duty®: Modern Warfare III",
+      "name": "Call of Duty\u00ae: Modern Warfare III",
       "version": "01.33",
       "release": "11-15-2013",
       "size": 65192722432,
@@ -1063,7 +1063,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20Vanguard%20-%20[US]%20[EN]%20[1.26].pkg": {
       "title_id": "CUSA24041",
       "region": "USA",
-      "name": "Call of Duty®: Vanguard",
+      "name": "Call of Duty\u00ae: Vanguard",
       "version": "01.26",
       "release": "11-15-2013",
       "size": 64232161280,
@@ -1073,7 +1073,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Call%20of%20Duty%20WWII%20-%20[US]%20[EN]%20[1.25].pkg": {
       "title_id": "CUSA05969",
       "region": "USA",
-      "name": "Call of Duty®: WWII",
+      "name": "Call of Duty\u00ae: WWII",
       "version": "01.25",
       "release": "11-15-2013",
       "size": 96102711296,
@@ -1173,7 +1173,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Chimparty%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA12286",
       "region": "EUR",
-      "name": "Chimparty™",
+      "name": "Chimparty\u2122",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 2623602688,
@@ -1213,7 +1213,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Coffee%20Talk%20Episode%202%20Hibiscus%20%26%20Butterfly%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA32951",
       "region": "EUR",
-      "name": "Coffee Talk Episode 2: Hibiscus ＆ Butterfly",
+      "name": "Coffee Talk Episode 2: Hibiscus \uff06 Butterfly",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 447086592,
@@ -1273,7 +1273,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Crash%20Bandicoot%204%20It's%20About%20Time%20-%20[US]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA19035",
       "region": "USA",
-      "name": "Crash Bandicoot™ 4: It's About Time",
+      "name": "Crash Bandicoot\u2122 4: It's About Time",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 22707961856,
@@ -1293,7 +1293,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Crash%20Team%20Racing%20Nitro-Fueled%20-%20[US]%20[EN]%20[1.21].pkg": {
       "title_id": "CUSA13795",
       "region": "USA",
-      "name": "Crash™ Team Racing Nitro-Fueled",
+      "name": "Crash\u2122 Team Racing Nitro-Fueled",
       "version": "01.21",
       "release": "11-15-2013",
       "size": 21934243840,
@@ -1353,7 +1353,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA18671",
       "region": "EUR",
-      "name": "Crysis®",
+      "name": "Crysis\u00ae",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 11297685504,
@@ -1363,7 +1363,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%202%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA18672",
       "region": "EUR",
-      "name": "Crysis2®",
+      "name": "Crysis2\u00ae",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 15788343296,
@@ -1373,7 +1373,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-c/Crysis%203%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA18673",
       "region": "EUR",
-      "name": "Crysis3®",
+      "name": "Crysis3\u00ae",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 8560246784,
@@ -1410,10 +1410,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16579.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA08495",
       "region": "EUR",
-      "name": "DARK SOULS™",
+      "name": "DARK SOULS\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 7250509824,
@@ -1423,7 +1423,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20II%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA01589",
       "region": "EUR",
-      "name": "DARK SOULS™ II",
+      "name": "DARK SOULS\u2122 II",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 11394023424,
@@ -1433,7 +1433,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20III%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA07439",
       "region": "EUR",
-      "name": "DARK SOULS™ III",
+      "name": "DARK SOULS\u2122 III",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 23461036032,
@@ -1473,7 +1473,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DEATH%20STRANDING%20-%20[EU]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA12605",
       "region": "EUR",
-      "name": "DEATH STRANDING™",
+      "name": "DEATH STRANDING\u2122",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 45375881216,
@@ -1483,7 +1483,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DIRT%205%20-%20[US]%20[EN]%20[6.02].pkg": {
       "title_id": "CUSA16195",
       "region": "USA",
-      "name": "DIRT 5™",
+      "name": "DIRT 5\u2122",
       "version": "06.02",
       "release": "11-15-2013",
       "size": 36671193088,
@@ -1643,7 +1643,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DRIVECLUB%20-%20[EU]%20[EN]%20[1.28].pkg": {
       "title_id": "CUSA00003",
       "region": "EUR",
-      "name": "DRIVECLUB™",
+      "name": "DRIVECLUB\u2122",
       "version": "01.28",
       "release": "11-15-2013",
       "size": 34894381056,
@@ -1773,7 +1773,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Dead%20Nation%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00236",
       "region": "USA",
-      "name": "Dead Nation™",
+      "name": "Dead Nation\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 2337538048,
@@ -1883,7 +1883,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Detroit%20Become%20Human%20-%20[US]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA08344",
       "region": "USA",
-      "name": "Detroit: Become Human™",
+      "name": "Detroit: Become Human\u2122",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 43060625408,
@@ -1893,7 +1893,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Deus%20Ex%20Mankind%20Divided%20-%20[EU]%20[EN]%20[1.14].pkg": {
       "title_id": "CUSA01836",
       "region": "EUR",
-      "name": "Deus Ex: Mankind Divided™",
+      "name": "Deus Ex: Mankind Divided\u2122",
       "version": "01.14",
       "release": "11-15-2013",
       "size": 59235368960,
@@ -1923,7 +1923,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Devil%20May%20Cry%20Trilogy%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA09263",
       "region": "EUR",
-      "name": "Devil May Cry™ Trilogy",
+      "name": "Devil May Cry\u2122 Trilogy",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 6914506752,
@@ -1953,7 +1953,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Diablo%20II%20-%20[US]%20[EN]%20[1.23].pkg": {
       "title_id": "CUSA18937",
       "region": "USA",
-      "name": "Diablo® II",
+      "name": "Diablo\u00ae II",
       "version": "01.23",
       "release": "11-15-2013",
       "size": 16393502720,
@@ -1973,7 +1973,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Disc%20Jam%20-%20[EU]%20[EN]%20[1.20].pkg": {
       "title_id": "CUSA07970",
       "region": "EUR",
-      "name": "Disc Jam™",
+      "name": "Disc Jam\u2122",
       "version": "01.20",
       "release": "11-15-2013",
       "size": 1179582464,
@@ -1993,7 +1993,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Dishonored%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA02230",
       "region": "EUR",
-      "name": "Dishonored®",
+      "name": "Dishonored\u00ae",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 18721865728,
@@ -2013,7 +2013,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Dishonored%20Death%20of%20the%20Outsider%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA08781",
       "region": "EUR",
-      "name": "Dishonored®: Death of the Outsider™",
+      "name": "Dishonored\u00ae: Death of the Outsider\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 26665811968,
@@ -2053,7 +2053,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/DmC%20Devil%20May%20Cry%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA01022",
       "region": "EUR",
-      "name": "DmC Devil May Cry™",
+      "name": "DmC Devil May Cry\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 17599102976,
@@ -2103,7 +2103,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Dragon%20Age%20Inquisition%20-%20[US]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA00220",
       "region": "USA",
-      "name": "Dragon Age™: Inquisition",
+      "name": "Dragon Age\u2122: Inquisition",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 39846871040,
@@ -2123,7 +2123,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-d/Dreams%20-%20[EU]%20[EN]%20[2.64].pkg": {
       "title_id": "CUSA04301",
       "region": "EUR",
-      "name": "Dreams™",
+      "name": "Dreams\u2122",
       "version": "02.64",
       "release": "11-15-2013",
       "size": 9146662912,
@@ -2150,7 +2150,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03991.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2024%20-%20[EU]%20[EN]%20[1.22].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2024%20-%20[EU]%20[EN]%20[1.22].pkg": {
       "title_id": "CUSA40325",
       "region": "EUR",
       "name": "EA SPORTS FC 24",
@@ -2160,7 +2160,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40325.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2026%20-%20[US]%20[EN]%20[1.09].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2026%20-%20[US]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA52342",
       "region": "EUR",
       "name": "EA SPORTS FC 26",
@@ -2173,7 +2173,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20UFC%204%20-%20[US]%20[EN]%20[28.00].pkg": {
       "title_id": "CUSA14204",
       "region": "USA",
-      "name": "EA SPORTS™ UFC® 4",
+      "name": "EA SPORTS\u2122 UFC\u00ae 4",
       "version": "28.00",
       "release": "11-15-2013",
       "size": 28966387712,
@@ -2183,7 +2183,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-e/ELDEN%20RING%20-%20[EU]%20[EN]%20[1.21].pkg": {
       "title_id": "CUSA18723",
       "region": "EUR",
-      "name": "ELDEN RING™",
+      "name": "ELDEN RING\u2122",
       "version": "01.21",
       "release": "11-15-2013",
       "size": 44378685440,
@@ -2243,7 +2243,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-e/Everybody's%20Gone%20To%20The%20Rapture%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA01511",
       "region": "EUR",
-      "name": "Everybody's Gone To The Rapture™",
+      "name": "Everybody's Gone To The Rapture\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 5172559872,
@@ -2283,14 +2283,14 @@
     "https://archive.org/download/ps4-fpkg-collection-english-e/eFootball%20-%20[US]%20[EN]%20[1.39].pkg": {
       "title_id": "CUSA26997",
       "region": "USA",
-      "name": "eFootball™",
+      "name": "eFootball\u2122",
       "version": "01.39",
       "release": "11-15-2013",
       "size": 47915204608,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26997.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-f/F.I.S.T.%20-%20[EU]%20[EN]%20[1.22].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-f/F.I.S.T.%20-%20[EU]%20[EN]%20[1.22].pkg": {
       "title_id": "CUSA28371",
       "region": "EUR",
       "name": "F.I.S.T.",
@@ -2303,7 +2303,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/F1%2024%20-%20[EU]%20[EN]%20[1.18].pkg": {
       "title_id": "CUSA44372",
       "region": "EUR",
-      "name": "F1® 24",
+      "name": "F1\u00ae 24",
       "version": "01.18",
       "release": "11-15-2013",
       "size": 36835885056,
@@ -2453,7 +2453,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/FINAL%20FANTASY%20XII%20THE%20ZODIAC%20AGE%20-%20[US]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA05532",
       "region": "USA",
-      "name": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+      "name": "FINAL FANTASY \u216b THE ZODIAC AGE",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 40688222208,
@@ -2483,7 +2483,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%203%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA10326",
       "region": "EUR",
-      "name": "Far Cry® 3",
+      "name": "Far Cry\u00ae 3",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 5459279872,
@@ -2493,7 +2493,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%203%20Blood%20Dragon%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA29007",
       "region": "USA",
-      "name": "Far Cry® 3 Blood Dragon",
+      "name": "Far Cry\u00ae 3 Blood Dragon",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 3147497472,
@@ -2503,7 +2503,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%204%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA00496",
       "region": "USA",
-      "name": "Far Cry® 4",
+      "name": "Far Cry\u00ae 4",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 23627104256,
@@ -2513,7 +2513,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%205%20-%20[US]%20[EN]%20[1.19].pkg": {
       "title_id": "CUSA05904",
       "region": "USA",
-      "name": "Far Cry® 5",
+      "name": "Far Cry\u00ae 5",
       "version": "01.19",
       "release": "11-15-2013",
       "size": 41957195776,
@@ -2523,7 +2523,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%206%20-%20[EU]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA15778",
       "region": "EUR",
-      "name": "Far Cry® 6",
+      "name": "Far Cry\u00ae 6",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 58230439936,
@@ -2533,7 +2533,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%20New%20Dawn%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA13917",
       "region": "USA",
-      "name": "Far Cry® New Dawn",
+      "name": "Far Cry\u00ae New Dawn",
       "version": "01.06",
       "release": "11-15-2013",
       "size": 18841075712,
@@ -2543,7 +2543,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Far%20Cry%20Primal%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA03309",
       "region": "EUR",
-      "name": "Far Cry® Primal",
+      "name": "Far Cry\u00ae Primal",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 12090212352,
@@ -2703,7 +2703,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-f/Frantics%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA09491",
       "region": "EUR",
-      "name": "Frantics™",
+      "name": "Frantics\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 1416953856,
@@ -2740,7 +2740,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00180.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-g/GONNER2%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-g/GONNER2%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA23371",
       "region": "USA",
       "name": "GONNER2",
@@ -2753,7 +2753,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/GRAVITY%20RUSH%202%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA04943",
       "region": "EUR",
-      "name": "GRAVITY RUSH™ 2",
+      "name": "GRAVITY RUSH\u2122 2",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 18208522240,
@@ -2873,17 +2873,17 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20III%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA01623",
       "region": "USA",
-      "name": "God of War® III",
+      "name": "God of War\u00ae III",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 21890531328,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01623.png"
     },
-    "https://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20Ragnarök%20-%20[US]%20[EN]%20[6.05].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20Ragnar\u00f6k%20-%20[US]%20[EN]%20[6.05].pkg": {
       "title_id": "CUSA34384",
       "region": "USA",
-      "name": "God of War Ragnarök",
+      "name": "God of War Ragnar\u00f6k",
       "version": "06.05",
       "release": "11-15-2013",
       "size": 98290368512,
@@ -2923,7 +2923,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/Gran%20Turismo%207%20-%20[EU]%20[EN]%20[1.55].pkg": {
       "title_id": "CUSA24767",
       "region": "EUR",
-      "name": "Gran Turismo™ 7",
+      "name": "Gran Turismo\u2122 7",
       "version": "01.55",
       "release": "11-15-2013",
       "size": 108992856064,
@@ -2933,7 +2933,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/Gran%20Turismo%207%20-%20[US]%20[EN]%20[1.34].pkg": {
       "title_id": "CUSA24769",
       "region": "USA",
-      "name": "Gran Turismo® 7",
+      "name": "Gran Turismo\u00ae 7",
       "version": "01.34",
       "release": "11-15-2013",
       "size": 122750959616,
@@ -2943,7 +2943,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/Gran%20Turismo%20SPORT%20-%20[EU]%20[EN]%20[1.69].pkg": {
       "title_id": "CUSA02168",
       "region": "EUR",
-      "name": "Gran Turismo™SPORT",
+      "name": "Gran Turismo\u2122SPORT",
       "version": "01.69",
       "release": "11-15-2013",
       "size": 109600440320,
@@ -2973,7 +2973,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-g/Gravity%20Rush%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA01113",
       "region": "EUR",
-      "name": "Gravity Rush™",
+      "name": "Gravity Rush\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 9872736256,
@@ -3040,10 +3040,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25325.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-h/HEAVY%20RAIN%20-%20[EU]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-h/HEAVY%20RAIN%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA02356",
       "region": "EUR",
-      "name": "HEAVY RAIN™",
+      "name": "HEAVY RAIN\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 29989994496,
@@ -3063,7 +3063,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-h/HOT%20WHEELS%20UNLEASHED%202%20-%20Turbocharged%20-%20[EU]%20[EN]%20[1.17].pkg": {
       "title_id": "CUSA35582",
       "region": "EUR",
-      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
       "version": "01.17",
       "release": "11-15-2013",
       "size": 15002697728,
@@ -3103,7 +3103,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-h/Hellblade%20Senua's%20Sacrifice%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA07527",
       "region": "EUR",
-      "name": "Hellblade: Senua's Sacrifice™",
+      "name": "Hellblade: Senua's Sacrifice\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 12271484928,
@@ -3233,7 +3233,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-h/Horizon%20Zero%20Dawn%20-%20[EU]%20[EN]%20[1.54].pkg": {
       "title_id": "CUSA10213",
       "region": "EUR",
-      "name": "Horizon Zero Dawn™",
+      "name": "Horizon Zero Dawn\u2122",
       "version": "01.54",
       "release": "11-15-2013",
       "size": 43784601600,
@@ -3280,7 +3280,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04570.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-i/I%20am%20Bread%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-i/I%20am%20Bread%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA03047",
       "region": "EUR",
       "name": "I am Bread",
@@ -3343,7 +3343,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-i/inFAMOUS%20First%20Light%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA00575",
       "region": "USA",
-      "name": "inFAMOUS First Light™",
+      "name": "inFAMOUS First Light\u2122",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 8972992512,
@@ -3353,14 +3353,14 @@
     "https://archive.org/download/ps4-fpkg-collection-english-i/inFAMOUS%20Second%20Son%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA00223",
       "region": "USA",
-      "name": "inFAMOUS Second Son™",
+      "name": "inFAMOUS Second Son\u2122",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 20491599872,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00223.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-j/JUMP%20FORCE%20-%20[EU]%20[EN]%20[3.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-j/JUMP%20FORCE%20-%20[EU]%20[EN]%20[3.03].pkg": {
       "title_id": "CUSA11638",
       "region": "EUR",
       "name": "JUMP FORCE",
@@ -3373,7 +3373,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-j/JUST%20SING%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA03483",
       "region": "USA",
-      "name": "JUST SING™",
+      "name": "JUST SING\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 484900864,
@@ -3530,10 +3530,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10349.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-k/KILLZONE%20SHADOW%20FALL%20-%20[US]%20[EN]%20[1.81].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KILLZONE%20SHADOW%20FALL%20-%20[US]%20[EN]%20[1.81].pkg": {
       "title_id": "CUSA00190",
       "region": "USA",
-      "name": "KILLZONE™ SHADOW FALL",
+      "name": "KILLZONE\u2122 SHADOW FALL",
       "version": "01.81",
       "release": "11-15-2013",
       "size": 45918453760,
@@ -3553,7 +3553,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-k/KINGDOM%20HEARTS%20III%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA12025",
       "region": "EUR",
-      "name": "KINGDOM HEARTS Ⅲ",
+      "name": "KINGDOM HEARTS \u2162",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 46960345088,
@@ -3573,7 +3573,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-k/KNACK%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA00006",
       "region": "EUR",
-      "name": "KNACK™",
+      "name": "KNACK\u2122",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 34769928192,
@@ -3583,7 +3583,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-k/KNACK%202%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA07670",
       "region": "EUR",
-      "name": "KNACK™ 2",
+      "name": "KNACK\u2122 2",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 35430596608,
@@ -3673,7 +3673,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-k/Knowledge%20is%20Power%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA06044",
       "region": "EUR",
-      "name": "Knowledge is Power™",
+      "name": "Knowledge is Power\u2122",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 1684537344,
@@ -3683,14 +3683,14 @@
     "https://archive.org/download/ps4-fpkg-collection-english-k/Knowledge%20is%20Power%20Decades%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA12356",
       "region": "EUR",
-      "name": "Knowledge is Power™: Decades",
+      "name": "Knowledge is Power\u2122: Decades",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 1451687936,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12356.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-l/L.A.%20Noire%20-%20[US]%20[EN]%20[1.04].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-l/L.A.%20Noire%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA09084",
       "region": "USA",
       "name": "L.A. Noire",
@@ -3703,7 +3703,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20Batman%203%20Beyond%20Gotham%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00579",
       "region": "EUR",
-      "name": "LEGO® Batman™ 3: Beyond Gotham",
+      "name": "LEGO\u00ae Batman\u2122 3: Beyond Gotham",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 8099004416,
@@ -3713,7 +3713,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20CITY%20UNDERCOVER%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA06549",
       "region": "USA",
-      "name": "LEGO® CITY UNDERCOVER",
+      "name": "LEGO\u00ae CITY UNDERCOVER",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 11408572416,
@@ -3723,7 +3723,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20DC%20Super-Villains%20-%20[US]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA11542",
       "region": "USA",
-      "name": "LEGO® DC Super-Villains",
+      "name": "LEGO\u00ae DC Super-Villains",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 17789353984,
@@ -3733,7 +3733,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20Harry%20Potter%20Collection%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA05935",
       "region": "EUR",
-      "name": "LEGO® Harry Potter™ Collection",
+      "name": "LEGO\u00ae Harry Potter\u2122 Collection",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 16355950592,
@@ -3743,7 +3743,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20Jurassic%20World%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA01519",
       "region": "EUR",
-      "name": "LEGO® Jurassic World™",
+      "name": "LEGO\u00ae Jurassic World\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 14703329280,
@@ -3753,7 +3753,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20MARVEL%20Super%20Heroes%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00044",
       "region": "EUR",
-      "name": "LEGO® MARVEL Super Heroes",
+      "name": "LEGO\u00ae MARVEL Super Heroes",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 6216613888,
@@ -3763,7 +3763,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20MARVEL%20Super%20Heroes%202%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA08469",
       "region": "USA",
-      "name": "LEGO® MARVEL Super Heroes 2",
+      "name": "LEGO\u00ae MARVEL Super Heroes 2",
       "version": "01.06",
       "release": "11-15-2013",
       "size": 20396244992,
@@ -3773,7 +3773,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20MARVEL's%20Avengers%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA02107",
       "region": "USA",
-      "name": "LEGO® MARVEL's Avengers",
+      "name": "LEGO\u00ae MARVEL's Avengers",
       "version": "01.06",
       "release": "11-15-2013",
       "size": 15737946112,
@@ -3783,7 +3783,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20STAR%20WARS%20The%20Force%20Awakens%20-%20[US]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA03372",
       "region": "USA",
-      "name": "LEGO® STAR WARS™: The Force Awakens",
+      "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 22373662720,
@@ -3793,7 +3793,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20Star%20Wars%20The%20Skywalker%20Saga%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA13793",
       "region": "EUR",
-      "name": "LEGO® Star Wars™: The Skywalker Saga",
+      "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 32527941632,
@@ -3803,7 +3803,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20The%20Hobbit%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA00355",
       "region": "EUR",
-      "name": "LEGO® The Hobbit™",
+      "name": "LEGO\u00ae The Hobbit\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 8538095616,
@@ -3813,7 +3813,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20The%20Incredibles%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA09878",
       "region": "USA",
-      "name": "LEGO® The Incredibles",
+      "name": "LEGO\u00ae The Incredibles",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 17876516864,
@@ -3823,7 +3823,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LEGO%20Worlds%20-%20[EU]%20[EN]%20[1.18].pkg": {
       "title_id": "CUSA02979",
       "region": "EUR",
-      "name": "LEGO® Worlds",
+      "name": "LEGO\u00ae Worlds",
       "version": "01.18",
       "release": "11-15-2013",
       "size": 3470065664,
@@ -4093,7 +4093,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/Life%20Is%20Strange%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA01442",
       "region": "USA",
-      "name": "Life Is Strange™",
+      "name": "Life Is Strange\u2122",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 11837243392,
@@ -4123,7 +4123,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/Life%20is%20Strange%20True%20Colors%20-%20[EU]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA24801",
       "region": "EUR",
-      "name": "Life is Strange: True Colors™",
+      "name": "Life is Strange: True Colors\u2122",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 12653035520,
@@ -4223,7 +4223,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LittleBigPlanet%203%20-%20[US]%20[EN]%20[1.28].pkg": {
       "title_id": "CUSA00473",
       "region": "USA",
-      "name": "LittleBigPlanet™3",
+      "name": "LittleBigPlanet\u21223",
       "version": "01.28",
       "release": "11-15-2013",
       "size": 12685803520,
@@ -4233,7 +4233,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LocoRoco%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA07286",
       "region": "EUR",
-      "name": "LocoRoco™",
+      "name": "LocoRoco\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 815988736,
@@ -4243,7 +4243,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-l/LocoRoco%202%20-%20[AS]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA07183",
       "region": "ASI",
-      "name": "LocoRoco™ 2",
+      "name": "LocoRoco\u2122 2",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 3615621120,
@@ -4280,7 +4280,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04384.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-m/MARVEL%20VS.%20CAPCOM%20INFINITE%20-%20[US]%20[EN]%20[1.07].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-m/MARVEL%20VS.%20CAPCOM%20INFINITE%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA06400",
       "region": "USA",
       "name": "MARVEL VS. CAPCOM: INFINITE",
@@ -4343,7 +4343,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/MLB%20The%20Show%2020%20-%20[US]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA17357",
       "region": "USA",
-      "name": "MLB® The Show™ 20",
+      "name": "MLB\u00ae The Show\u2122 20",
       "version": "01.08",
       "release": "11-15-2013",
       "size": 43884544000,
@@ -4473,7 +4473,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Marvel's%20Guardians%20of%20the%20Galaxy%20The%20Telltale%20Series%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA07816",
       "region": "EUR",
-      "name": "Marvel’s Guardians of the Galaxy: The Telltale Series",
+      "name": "Marvel\u2019s Guardians of the Galaxy: The Telltale Series",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 19228327936,
@@ -4513,7 +4513,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Mass%20Effect%20Andromeda%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA02491",
       "region": "EUR",
-      "name": "Mass Effect™: Andromeda",
+      "name": "Mass Effect\u2122: Andromeda",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 43205263360,
@@ -4523,7 +4523,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Mass%20Effect%20Trilogy%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA19515",
       "region": "EUR",
-      "name": "Mass Effect™ Trilogy",
+      "name": "Mass Effect\u2122 Trilogy",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 65794080768,
@@ -4553,7 +4553,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Melbits%20World%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA11929",
       "region": "EUR",
-      "name": "Melbits™ World",
+      "name": "Melbits\u2122 World",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 814415872,
@@ -4613,7 +4613,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Middle-earth%20Shadow%20of%20Mordor%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA01940",
       "region": "USA",
-      "name": "Middle-earth™: Shadow of Mordor™",
+      "name": "Middle-earth\u2122: Shadow of Mordor\u2122",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 35659382784,
@@ -4623,7 +4623,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Middle-earth%20Shadow%20of%20War%20-%20[EU]%20[EN]%20[1.18].pkg": {
       "title_id": "CUSA04402",
       "region": "EUR",
-      "name": "Middle-earth™: Shadow of War™",
+      "name": "Middle-earth\u2122: Shadow of War\u2122",
       "version": "01.18",
       "release": "11-15-2013",
       "size": 53066399744,
@@ -4653,7 +4653,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Mirror's%20Edge%20Catalyst%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA01566",
       "region": "USA",
-      "name": "Mirror's Edge™ Catalyst",
+      "name": "Mirror's Edge\u2122 Catalyst",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 16285302784,
@@ -4713,7 +4713,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/Monster%20Jam%20Showdown%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA43040",
       "region": "EUR",
-      "name": "Monster Jam™ Showdown",
+      "name": "Monster Jam\u2122 Showdown",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 10032054272,
@@ -4763,7 +4763,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-m/MotoGP%2024%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA45988",
       "region": "EUR",
-      "name": "MotoGP™24",
+      "name": "MotoGP\u212224",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 20418461696,
@@ -4850,10 +4850,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25283.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-n/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%204%20-%20[US]%20[EN]%20[1.11].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-n/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%204%20-%20[US]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA02412",
       "region": "USA",
-      "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4",
+      "name": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM 4",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 39203045376,
@@ -4873,7 +4873,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%20TRILOGY%20-%20[US]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA06417",
       "region": "USA",
-      "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM TRILOGY",
+      "name": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM TRILOGY",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 17014521856,
@@ -4923,7 +4923,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/NHL%2024%20-%20[US]%20[EN]%20[1.60].pkg": {
       "title_id": "CUSA37933",
       "region": "USA",
-      "name": "NHL® 24",
+      "name": "NHL\u00ae 24",
       "version": "01.60",
       "release": "11-15-2013",
       "size": 40738947072,
@@ -4940,20 +4940,20 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24123.png"
     },
-    "https://archive.org/download/ps4-fpkg-collection-english-n/NINJA%20GAIDEN%20Σ%20-%20[US]%20[EN]%20[1.04].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-n/NINJA%20GAIDEN%20\u03a3%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA25891",
       "region": "USA",
-      "name": "NINJA GAIDEN Σ",
+      "name": "NINJA GAIDEN \u03a3",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 4369809408,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25891.png"
     },
-    "https://archive.org/download/ps4-fpkg-collection-english-n/NINJA%20GAIDEN%20Σ2%20-%20[US]%20[EN]%20[1.02].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-n/NINJA%20GAIDEN%20\u03a32%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA25894",
       "region": "USA",
-      "name": "NINJA GAIDEN Σ2",
+      "name": "NINJA GAIDEN \u03a32",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 4337238016,
@@ -5003,7 +5003,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/Need%20for%20Speed%20Heat%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA15081",
       "region": "USA",
-      "name": "Need for Speed™ Heat",
+      "name": "Need for Speed\u2122 Heat",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 34249113600,
@@ -5013,7 +5013,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/Need%20for%20Speed%20Payback%20-%20[US]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA05999",
       "region": "USA",
-      "name": "Need for Speed™ Payback",
+      "name": "Need for Speed\u2122 Payback",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 23546167296,
@@ -5023,7 +5023,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/Need%20for%20Speed%20Rivals%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00168",
       "region": "EUR",
-      "name": "Need for Speed™ Rivals",
+      "name": "Need for Speed\u2122 Rivals",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 14484635648,
@@ -5063,7 +5063,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/New%20Tales%20from%20the%20Borderlands%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA27678",
       "region": "EUR",
-      "name": "New Tales from the Borderlands®",
+      "name": "New Tales from the Borderlands\u00ae",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 29303504896,
@@ -5083,7 +5083,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/Ni%20no%20Kuni%20II%20Revenant%20Kingdom%20-%20[EU]%20[EN]%20[4.00].pkg": {
       "title_id": "CUSA09243",
       "region": "EUR",
-      "name": "Ni no Kuni™ II: Revenant Kingdom",
+      "name": "Ni no Kuni\u2122 II: Revenant Kingdom",
       "version": "04.00",
       "release": "11-15-2013",
       "size": 25735725056,
@@ -5093,7 +5093,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-n/Ni%20no%20Kuni%20Wrath%20of%20the%20White%20Witch%20-%20[EU]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA13079",
       "region": "EUR",
-      "name": "Ni no Kuni: Wrath of the White Witch™",
+      "name": "Ni no Kuni: Wrath of the White Witch\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 15993602048,
@@ -5250,7 +5250,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03902.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-o/OMORI%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-o/OMORI%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA33851",
       "region": "USA",
       "name": "OMORI",
@@ -5303,7 +5303,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-o/ONRUSH%20-%20[EU]%20[EN]%20[5.00].pkg": {
       "title_id": "CUSA09559",
       "region": "EUR",
-      "name": "ONRUSH™",
+      "name": "ONRUSH\u2122",
       "version": "05.00",
       "release": "11-15-2013",
       "size": 21512978432,
@@ -5470,17 +5470,17 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05051.png"
     },
-    "https://archive.org/download/ps4-fpkg-collection-english-o/ŌKAMI%20-%20[EU]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-o/\u014cKAMI%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA08364",
       "region": "EUR",
-      "name": "ŌKAMI",
+      "name": "\u014cKAMI",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 15644426240,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08364.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-p/P.T.%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-p/P.T.%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA01127",
       "region": "USA",
       "name": "P.T.",
@@ -5493,7 +5493,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/PAC-MAN%20Championship%20Edition%202%20+%20Arcade%20Game%20Series%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA06906",
       "region": "USA",
-      "name": "PAC-MAN™ Championship Edition 2 + Arcade Game Series™",
+      "name": "PAC-MAN\u2122 Championship Edition 2 + Arcade Game Series\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 2570715136,
@@ -5513,7 +5513,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/PGA%20TOUR%202K23%20-%20[EU]%20[EN]%20[1.19].pkg": {
       "title_id": "CUSA29107",
       "region": "EUR",
-      "name": "PGA TOUR® 2K23",
+      "name": "PGA TOUR\u00ae 2K23",
       "version": "01.19",
       "release": "11-15-2013",
       "size": 11217600512,
@@ -5523,7 +5523,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/PROTOTYPE%201+2%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA06545",
       "region": "USA",
-      "name": "PROTOTYPE® 1+2",
+      "name": "PROTOTYPE\u00ae 1+2",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 15331098624,
@@ -5533,7 +5533,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/PaRappa%20The%20Rapper%20-%20[US]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA05289",
       "region": "USA",
-      "name": "PaRappa The Rapper™",
+      "name": "PaRappa The Rapper\u2122",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 893845504,
@@ -5543,7 +5543,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/Patapon%20-%20[US]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA06171",
       "region": "USA",
-      "name": "Patapon™",
+      "name": "Patapon\u2122",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 603127808,
@@ -5553,7 +5553,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-p/Patapon%202%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA07321",
       "region": "USA",
-      "name": "Patapon™2",
+      "name": "Patapon\u21222",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 1861681152,
@@ -5790,7 +5790,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05441.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-q/Quake%20-%20[EU]%20[EN]%20[1.08].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-q/Quake%20-%20[EU]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA24594",
       "region": "EUR",
       "name": "Quake",
@@ -5810,7 +5810,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35422.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-r/RAD%20-%20[US]%20[EN]%20[1.06].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-r/RAD%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA13879",
       "region": "USA",
       "name": "RAD",
@@ -5903,7 +5903,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-r/RESOGUN%20-%20[US]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA00038",
       "region": "USA",
-      "name": "RESOGUN™",
+      "name": "RESOGUN\u2122",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 702021632,
@@ -5943,7 +5943,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-r/Ratchet%20%26%20Clank%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA01073",
       "region": "EUR",
-      "name": "Ratchet & Clank™",
+      "name": "Ratchet & Clank\u2122",
       "version": "01.09",
       "release": "11-15-2013",
       "size": 24603983872,
@@ -5963,7 +5963,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-r/Rayman%20Legends%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA00031",
       "region": "EUR",
-      "name": "Rayman® Legends",
+      "name": "Rayman\u00ae Legends",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 8298102784,
@@ -6133,7 +6133,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-r/Rocket%20League%20-%20[US]%20[EN]%20[2.39].pkg": {
       "title_id": "CUSA01163",
       "region": "USA",
-      "name": "Rocket League®",
+      "name": "Rocket League\u00ae",
       "version": "02.39",
       "release": "11-15-2013",
       "size": 33150074880,
@@ -6180,7 +6180,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04885.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-s/SAMURAI%20WARRIORS%205%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-s/SAMURAI%20WARRIORS%205%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA24100",
       "region": "EUR",
       "name": "SAMURAI WARRIORS 5",
@@ -6193,7 +6193,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/SHADOW%20OF%20THE%20COLOSSUS%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA08809",
       "region": "EUR",
-      "name": "SHADOW OF THE COLOSSUS™",
+      "name": "SHADOW OF THE COLOSSUS\u2122",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 13567524864,
@@ -6253,7 +6253,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/STAR%20WARS%20Battlefront%20-%20[US]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA00640",
       "region": "USA",
-      "name": "STAR WARS™ Battlefront™",
+      "name": "STAR WARS\u2122 Battlefront\u2122",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 27843100672,
@@ -6263,7 +6263,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/STAR%20WARS%20Battlefront%20II%20-%20[US]%20[EN]%20[1.55].pkg": {
       "title_id": "CUSA05770",
       "region": "USA",
-      "name": "STAR WARS™ Battlefront™ II",
+      "name": "STAR WARS\u2122 Battlefront\u2122 II",
       "version": "01.55",
       "release": "11-15-2013",
       "size": 84113162240,
@@ -6273,7 +6273,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/STAR%20WARS%20Jedi%20Fallen%20Order%20-%20[EU]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA12529",
       "region": "EUR",
-      "name": "STAR WARS Jedi: Fallen Order™",
+      "name": "STAR WARS Jedi: Fallen Order\u2122",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 41750757376,
@@ -6283,7 +6283,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/STAR%20WARS%20Jedi%20Survivor%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA33778",
       "region": "USA",
-      "name": "STAR WARS Jedi: Survivor™",
+      "name": "STAR WARS Jedi: Survivor\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 52111278080,
@@ -6293,7 +6293,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/STAR%20WARS%20Squadrons%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA15089",
       "region": "EUR",
-      "name": "STAR WARS™: Squadrons",
+      "name": "STAR WARS\u2122: Squadrons",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 22932094976,
@@ -6363,7 +6363,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/Sackboy%20A%20Big%20Adventure%20-%20[EU]%20[EN]%20[1.22].pkg": {
       "title_id": "CUSA18867",
       "region": "EUR",
-      "name": "Sackboy™: A Big Adventure",
+      "name": "Sackboy\u2122: A Big Adventure",
       "version": "01.22",
       "release": "11-15-2013",
       "size": 31929532416,
@@ -6403,7 +6403,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/Saints%20Row%20The%20Third%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA14350",
       "region": "EUR",
-      "name": "Saints Row®: The Third™",
+      "name": "Saints Row\u00ae: The Third\u2122",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 40667971584,
@@ -6453,7 +6453,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/Sekiro%20Shadows%20Die%20Twice%20-%20[EU]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA13801",
       "region": "EUR",
-      "name": "Sekiro™: Shadows Die Twice",
+      "name": "Sekiro\u2122: Shadows Die Twice",
       "version": "01.06",
       "release": "11-15-2013",
       "size": 11253972992,
@@ -6543,7 +6543,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/Sid%20Meier's%20Civilization%20VII%20-%20[US]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA28732",
       "region": "USA",
-      "name": "Sid Meier's Civilization® VII",
+      "name": "Sid Meier's Civilization\u00ae VII",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 10564730880,
@@ -6763,7 +6763,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/South%20Park%20The%20Fractured%20But%20Whole%20-%20[EU]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA04323",
       "region": "EUR",
-      "name": "South Park™: The Fractured But Whole™",
+      "name": "South Park\u2122: The Fractured But Whole\u2122",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 22643933184,
@@ -6773,7 +6773,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/South%20Park%20The%20Stick%20of%20Truth%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA04696",
       "region": "EUR",
-      "name": "South Park™: The Stick of Truth™",
+      "name": "South Park\u2122: The Stick of Truth\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 4524081152,
@@ -6843,7 +6843,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/SpongeBob%20SquarePants%20The%20Patrick%20Star%20Game%20-%20[US]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA42350",
       "region": "USA",
-      "name": "SpongeBob SquarePants™: The Patrick Star Game",
+      "name": "SpongeBob SquarePants\u2122: The Patrick Star Game",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 990707712,
@@ -6953,7 +6953,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-s/Street%20Fighter%20Collection%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA07997",
       "region": "EUR",
-      "name": "Street Fighter™ Collection",
+      "name": "Street Fighter\u2122 Collection",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 5113708544,
@@ -7060,10 +7060,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32056.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-t/TEKKEN%207%20-%20[EU]%20[EN]%20[5.10].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/TEKKEN%207%20-%20[EU]%20[EN]%20[5.10].pkg": {
       "title_id": "CUSA06014",
       "region": "EUR",
-      "name": "TEKKEN™7",
+      "name": "TEKKEN\u21227",
       "version": "05.10",
       "release": "11-15-2013",
       "size": 35899899904,
@@ -7093,7 +7093,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Taiko%20No%20Tatsujin%20-%20Drum%20Session%20-%20[JP]%20[EN]%20[1.28].pkg": {
       "title_id": "CUSA07515",
       "region": "JAP",
-      "name": "Taiko No Tatsujin – Drum Session",
+      "name": "Taiko No Tatsujin \u2013 Drum Session",
       "version": "01.28",
       "release": "11-15-2013",
       "size": 1552482304,
@@ -7113,7 +7113,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Tearaway%20Unfolded%20-%20[EU]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA00562",
       "region": "EUR",
-      "name": "Tearaway™ Unfolded",
+      "name": "Tearaway\u2122 Unfolded",
       "version": "01.04",
       "release": "11-15-2013",
       "size": 6738477056,
@@ -7153,7 +7153,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Tetris%20Effect%20Connected%20-%20[EU]%20[EN]%20[2.02].pkg": {
       "title_id": "CUSA13643",
       "region": "EUR",
-      "name": "Tetris® Effect: Connected",
+      "name": "Tetris\u00ae Effect: Connected",
       "version": "02.02",
       "release": "11-15-2013",
       "size": 5513347072,
@@ -7163,7 +7163,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Amazing%20Spider-Man%202%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA00239",
       "region": "USA",
-      "name": "The Amazing Spider-Man 2™",
+      "name": "The Amazing Spider-Man 2\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 8599371776,
@@ -7213,7 +7213,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Callisto%20Protocol%20-%20[US]%20[EN]%20[1.26].pkg": {
       "title_id": "CUSA27372",
       "region": "USA",
-      "name": "The Callisto Protocol™",
+      "name": "The Callisto Protocol\u2122",
       "version": "01.26",
       "release": "11-15-2013",
       "size": 32377208832,
@@ -7313,7 +7313,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Evil%20Within%202%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA06164",
       "region": "EUR",
-      "name": "The Evil Within® 2",
+      "name": "The Evil Within\u00ae 2",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 27625848832,
@@ -7393,7 +7393,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Last%20Guardian%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA03745",
       "region": "EUR",
-      "name": "The Last Guardian™",
+      "name": "The Last Guardian\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 12808814592,
@@ -7403,7 +7403,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Last%20of%20Us%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA00556",
       "region": "EUR",
-      "name": "The Last of Us™",
+      "name": "The Last of Us\u2122",
       "version": "01.11",
       "release": "11-15-2013",
       "size": 32574078976,
@@ -7413,7 +7413,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Last%20of%20Us%20Part%20II%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA10249",
       "region": "EUR",
-      "name": "The Last of Us Part II™",
+      "name": "The Last of Us Part II\u2122",
       "version": "01.09",
       "release": "11-15-2013",
       "size": 76187697152,
@@ -7433,7 +7433,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Lord%20of%20the%20Rings%20Gollum%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA32039",
       "region": "EUR",
-      "name": "The Lord of the Rings: Gollum™",
+      "name": "The Lord of the Rings: Gollum\u2122",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 15470100480,
@@ -7543,7 +7543,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Sims%204%20-%20[US]%20[EN]%20[1.95].pkg": {
       "title_id": "CUSA09209",
       "region": "USA",
-      "name": "The Sims™ 4",
+      "name": "The Sims\u2122 4",
       "version": "01.95",
       "release": "11-15-2013",
       "size": 70280806400,
@@ -7783,7 +7783,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Titanfall%202%20-%20[EU]%20[EN]%20[1.13].pkg": {
       "title_id": "CUSA04013",
       "region": "EUR",
-      "name": "Titanfall™ 2",
+      "name": "Titanfall\u2122 2",
       "version": "01.13",
       "release": "11-15-2013",
       "size": 41948413952,
@@ -7793,7 +7793,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Tom%20Clancy's%20Ghost%20Recon%20Wildlands%20-%20[US]%20[EN]%20[1.31].pkg": {
       "title_id": "CUSA02902",
       "region": "USA",
-      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "name": "Tom Clancy's Ghost Recon\u00ae Wildlands",
       "version": "01.31",
       "release": "11-15-2013",
       "size": 66586935296,
@@ -7833,7 +7833,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Tony%20Hawk's%20Pro%20Skater%201+2%20-%20[US]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA17922",
       "region": "USA",
-      "name": "Tony Hawk's™ Pro Skater™ 1+2",
+      "name": "Tony Hawk's\u2122 Pro Skater\u2122 1+2",
       "version": "01.10",
       "release": "11-15-2013",
       "size": 25157369856,
@@ -7843,7 +7843,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Tony%20Hawk's%20Pro%20Skater%203+4%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA44732",
       "region": "USA",
-      "name": "Tony Hawk's™ Pro Skater™ 3+4",
+      "name": "Tony Hawk's\u2122 Pro Skater\u2122 3+4",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 36795842560,
@@ -7880,7 +7880,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32748.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Ascension%20-%20[US]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Ascension%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00466",
       "region": "USA",
       "name": "TowerFall Ascension",
@@ -7983,7 +7983,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Trials%20Fusion%20-%20[US]%20[EN]%20[1.16].pkg": {
       "title_id": "CUSA00304",
       "region": "USA",
-      "name": "Trials Fusion™",
+      "name": "Trials Fusion\u2122",
       "version": "01.16",
       "release": "11-15-2013",
       "size": 10378936320,
@@ -7993,7 +7993,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-t/Trials%20Rising%20-%20[EU]%20[EN]%20[1.12].pkg": {
       "title_id": "CUSA09435",
       "region": "EUR",
-      "name": "Trials Rising™",
+      "name": "Trials Rising\u2122",
       "version": "01.12",
       "release": "11-15-2013",
       "size": 28340977664,
@@ -8140,7 +8140,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16081.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-u/Ultimate%20Chicken%20Horse%20-%20[US]%20[EN]%20[1.10].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-u/Ultimate%20Chicken%20Horse%20-%20[US]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA08580",
       "region": "USA",
       "name": "Ultimate Chicken Horse",
@@ -8163,7 +8163,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-u/Uncharted%204%20A%20Thief's%20End%20-%20[US]%20[EN]%20[1.33].pkg": {
       "title_id": "CUSA00341",
       "region": "USA",
-      "name": "Uncharted 4: A Thief’s End™",
+      "name": "Uncharted 4: A Thief\u2019s End\u2122",
       "version": "01.33",
       "release": "11-15-2013",
       "size": 58123091968,
@@ -8173,7 +8173,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-u/Uncharted%20The%20Lost%20Legacy%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA07875",
       "region": "EUR",
-      "name": "Uncharted™: The Lost Legacy",
+      "name": "Uncharted\u2122: The Lost Legacy",
       "version": "01.09",
       "release": "11-15-2013",
       "size": 28508749824,
@@ -8183,7 +8183,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-u/Uncharted%20The%20Nathan%20Drake%20Collection%20-%20[US]%20[EN]%20[1.02].pkg": {
       "title_id": "CUSA02320",
       "region": "USA",
-      "name": "Uncharted: The Nathan Drake Collection™",
+      "name": "Uncharted: The Nathan Drake Collection\u2122",
       "version": "01.02",
       "release": "11-15-2013",
       "size": 40712077312,
@@ -8243,7 +8243,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-u/Until%20Dawn%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA02636",
       "region": "EUR",
-      "name": "Until Dawn™",
+      "name": "Until Dawn\u2122",
       "version": "01.03",
       "release": "11-15-2013",
       "size": 35540238336,
@@ -8260,7 +8260,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23081.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-v/Valiant%20Hearts%20Coming%20Home%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-v/Valiant%20Hearts%20Coming%20Home%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA46104",
       "region": "EUR",
       "name": "Valiant Hearts: Coming Home",
@@ -8320,10 +8320,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20594.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-w/WATCH_DOGS%20-%20[US]%20[EN]%20[1.05].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-w/WATCH_DOGS%20-%20[US]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA00021",
       "region": "USA",
-      "name": "WATCH_DOGS™",
+      "name": "WATCH_DOGS\u2122",
       "version": "01.05",
       "release": "11-15-2013",
       "size": 17755209728,
@@ -8333,7 +8333,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/WATCH_DOGS%202%20-%20[EU]%20[EN]%20[1.18].pkg": {
       "title_id": "CUSA04294",
       "region": "EUR",
-      "name": "WATCH_DOGS® 2",
+      "name": "WATCH_DOGS\u00ae 2",
       "version": "01.18",
       "release": "11-15-2013",
       "size": 23090167808,
@@ -8353,7 +8353,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/WIPEOUT%20OMEGA%20COLLECTION%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA07671",
       "region": "USA",
-      "name": "WIPEOUT™ OMEGA COLLECTION",
+      "name": "WIPEOUT\u2122 OMEGA COLLECTION",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 27253407744,
@@ -8383,7 +8383,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/Watch%20Dogs%20Legion%20-%20[EU]%20[EN]%20[1.24].pkg": {
       "title_id": "CUSA13034",
       "region": "EUR",
-      "name": "Watch Dogs®: Legion",
+      "name": "Watch Dogs\u00ae: Legion",
       "version": "01.24",
       "release": "11-15-2013",
       "size": 40924413952,
@@ -8433,7 +8433,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/Wolfenstein%20II%20The%20New%20Colossus%20-%20[EU]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA07377",
       "region": "EUR",
-      "name": "Wolfenstein® II: The New Colossus™",
+      "name": "Wolfenstein\u00ae II: The New Colossus\u2122",
       "version": "01.07",
       "release": "11-15-2013",
       "size": 63111102464,
@@ -8443,7 +8443,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/Wolfenstein%20The%20New%20Order%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA00320",
       "region": "EUR",
-      "name": "Wolfenstein®: The New Order",
+      "name": "Wolfenstein\u00ae: The New Order",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 44658524160,
@@ -8453,7 +8453,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/Wolfenstein%20The%20Old%20Blood%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA01540",
       "region": "USA",
-      "name": "Wolfenstein®: The Old Blood",
+      "name": "Wolfenstein\u00ae: The Old Blood",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 37765840896,
@@ -8483,7 +8483,7 @@
     "https://archive.org/download/ps4-fpkg-collection-english-w/Wordhunters%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA14059",
       "region": "USA",
-      "name": "Wordhunters™",
+      "name": "Wordhunters\u2122",
       "version": "01.00",
       "release": "11-15-2013",
       "size": 2306801664,
@@ -8530,7 +8530,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08652.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-x/XCOM%202%20-%20[US]%20[EN]%20[1.06].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-x/XCOM%202%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA04552",
       "region": "USA",
       "name": "XCOM 2",
@@ -8540,7 +8540,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04552.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-y/YAKUZA%200%20-%20[EU]%20[EN]%20[1.05].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-y/YAKUZA%200%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA05133",
       "region": "EUR",
       "name": "YAKUZA 0",
@@ -8620,10 +8620,10 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35113.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-z/ZONE%20OF%20THE%20ENDERS%20THE%202nd%20RUNNER%20M∀RS%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-z/ZONE%20OF%20THE%20ENDERS%20THE%202nd%20RUNNER%20M\u2200RS%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA10576",
       "region": "EUR",
-      "name": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS",
+      "name": "ZONE OF THE ENDERS THE 2nd RUNNER : M\u2200RS",
       "version": "01.01",
       "release": "11-15-2013",
       "size": 9771417600,
@@ -8660,7 +8660,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01345.png"
     },
-    "https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/n6gzLbzzZg?response-content-disposition=attachment%3Bfilename%3D%22%5BTelegram PlayStation Pulse%5D eFootball PES 21 eFootball PES 21 Bitbox Patch Summer 2027 Base Game.pkg%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20260927%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260927T080654Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=b960f588a18148a6431b7dfae86ccc0a1d371c863ba63fcedc814d3c0fc1eb11": {
+    "https://rootz-files.85a231f67cabccb38b67ab26e81ec217.r2.cloudflarestorage.com/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1788451018168-PES 21 eFootball PES 21 Bitbox Patch Summer 2027 Base Game.pkg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=7c930334f9457380ee8c83b46068f82d%2F20260927%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260927T122310Z&X-Amz-Expires=86400&X-Amz-Signature=302b46b08c29dbddb785b847353fc83498227d830ae858f4b7e4089e2acdfbd9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B filename%3D%22PES 21 eFootball PES 21 Bitbox Patch Summer 2027 Base Game.pkg%22%3B filename%2A%3DUTF-8%27%27PES%252021%2520eFootball%2520PES%252021%2520Bitbox%2520Patch%2520Summer%25202027%2520Base%2520Game.pkg&x-amz-checksum-mode=ENABLED&x-id=GetObject": {
       "title_id": "CUSA18648",
       "region": "EUR",
       "name": "PES 2027 BITBOX",

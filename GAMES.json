@@ -40,7 +40,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30277.png"
     },
-    "https://archive.org/download/ps4-fpkg-collection-english-a/A%20Way%20Out%20-%20[US]%20[EN]%20[1.01].pkg": {
+    "https://d164.datavaults.co/d/5jgcr4ziqtc5exjzvy2iyv5qd2wa5nvyv67fnr6u64tyhokxgtrkexu3ha364gcuvwrt7giz/[PS4ID]-A.Way.Out.v1.00-CUSA07995.pkg": {
       "title_id": "CUSA07995",
       "region": "USA",
       "name": "A Way Out",
@@ -5506,9 +5506,9 @@
       "name": "PES 2027 Eleven Patch Summer",
       "version": "01.08",
       "release": "11-15-2013",
-      "size": 71643824128,
+      "size": 87700000000,
       "min_fw": "9.00",
-      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18676.png"
+      "cover_url": "https://link.ps4id.cloud/wp/wp-content/uploads/2026/09/ELEVEN-1024x574.jpg"
     },
     "https://archive.org/download/ps4-fpkg-collection-english-p/PGA%20TOUR%202K23%20-%20[EU]%20[EN]%20[1.19].pkg": {
       "title_id": "CUSA29107",
@@ -8660,13 +8660,13 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01345.png"
     },
-    "https://rootz-files.85a231f67cabccb38b67ab26e81ec217.r2.cloudflarestorage.com/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1788451018168-PES 21 eFootball PES 21 Bitbox Patch Summer 2027 Base Game.pkg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=7c930334f9457380ee8c83b46068f82d%2F20260927%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260927T122310Z&X-Amz-Expires=86400&X-Amz-Signature=302b46b08c29dbddb785b847353fc83498227d830ae858f4b7e4089e2acdfbd9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B filename%3D%22PES 21 eFootball PES 21 Bitbox Patch Summer 2027 Base Game.pkg%22%3B filename%2A%3DUTF-8%27%27PES%252021%2520eFootball%2520PES%252021%2520Bitbox%2520Patch%2520Summer%25202027%2520Base%2520Game.pkg&x-amz-checksum-mode=ENABLED&x-id=GetObject": {
+    "https://vikingfile.com/d/daXWrbN3xL/PES%2021%20eFootball%20PES%2021%20Bitbox%20Patch%20Summer%202027%20Base%20Game.pkg": {
       "title_id": "CUSA18648",
       "region": "EUR",
       "name": "PES 2027 BITBOX",
       "version": "01.03",
       "release": "11-15-2013",
-      "size": 8681391104,
+      "size": 49900000000,
       "min_fw": "9.00",
       "cover_url": "https://link.ps4id.cloud/wp/wp-content/uploads/2026/06/eFootball-PES-2027-Bitbox-Patch-PS4-Revisi-1-1-18-screenshot-1024x576.png"
     }

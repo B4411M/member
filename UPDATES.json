@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://d164.datavaults.co/d/5jgcp4ziqtc5exjzvy2jiqfic7g63zkmftguxeftfhbcouxbrbrgjzcmxjncq7cxsxfhre6o/[PS4ID]-A.Way.Out.Update.v1.01-CUSA07995.pkg": {
+      "title_id": "CUSA07995",
+      "region": "USA",
+      "name": "A Way Out",
+      "version": "01.01",
+      "release": "11-15-2013",
+      "size": 115800000,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA07995.png"
+    },
+    "https://vikingfile.com/d/w2kMPku76W/Bitbox%20Patch%20Summer%202027%20REV1.pkg": {
+      "title_id": "CUSA18648",
+      "region": "EUR",
+      "name": "PES 2027 BITBOX REV 1",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 4830000000,
+      "min_fw": "9.00",
+      "cover_url": "https://link.ps4id.cloud/wp/wp-content/uploads/2026/06/eFootball-PES-2027-Bitbox-Patch-PS4-Revisi-1-1-18-screenshot-1024x576.png"
+    }
+  }
+}

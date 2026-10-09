@@ -2170,6 +2170,16 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA52342.png"
     },
+	"https://stor2.mocha.my/verify/1791546130-f2nyOVdOyyrIALs8NPxYJ4K_VrjS5qBNVCkBnGQyQdQ/h3nACPcOLotJTudCpDH64/%5BSuperPSX%5D-EA.SPORTS.FC.27_CUSA57220_v1.00_%5B12.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA57220",
+      "region": "EUR",
+      "name": "EA SPORTS FC 27",
+      "version": "01.04",
+      "release": "25-09-2026",
+      "size": 47653060608,
+      "min_fw": "9.00",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/09/EA-SPORTS-FC-27-PS4-PKG.jpg"
+    },
     "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20UFC%204%20-%20[US]%20[EN]%20[28.00].pkg": {
       "title_id": "CUSA14204",
       "region": "USA",
@@ -8666,9 +8676,9 @@
       "name": "Bully",
       "version": "01.02",
       "release": "11-15-2013",
-      "size": 2400000,
+      "size": 2400000000,
       "min_fw": "9.00",
-      "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6Bq-wqzoEsymgQ2u9BUYII456Kkw8RAEBklGm_UuuSOozmxHrzjjnwA8gNV1l40HcB4qh5oOUlRjffShxumN02IniO34njU6tRCiHg4u7pslWuhkSRopXjOURuur9A42NUHrJv-OBXV_hyphenhyphenm3KVC6DZMelq1BmMUHo6SuaScXWHodyYsGq5KfAzI4wkzJ/w400-h225/Bully%20(Canis%20Canem%20Edit).jpg"
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Bully-PS4-PKG.webp"
     },
     "https://vikingfile.com/d/daXWrbN3xL/PES%2021%20eFootball%20PES%2021%20Bitbox%20Patch%20Summer%202027%20Base%20Game.pkg": {
       "title_id": "CUSA18648",

@@ -40,7 +40,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA30277.png"
     },
-    "https://stor2.mocha.my/verify/1792164892-6sW882QHsr3muNMIiM3X7NZO184HOO-YpkoYvwmVlC4/y3bjlE8tkLlwla2PFZqdP/%5BSuperPSX.com%5D-A.Way.Out-CUSA08004-EUR-Game-PS4.pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-a/A%20Way%20Out%20-%20[US]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA07995",
       "region": "USA",
       "name": "A Way Out",
@@ -460,7 +460,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA29346.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-b/BALAN%20WONDERWORLD%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-b/BALAN%20WONDERWORLD%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA24813",
       "region": "EUR",
       "name": "BALAN WONDERWORLD",
@@ -900,7 +900,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14925.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-c/CODE%20VEIN%20-%20[US]%20[EN]%20[1.53].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-c/CODE%20VEIN%20-%20[US]%20[EN]%20[1.53].pkg": {
       "title_id": "CUSA10410",
       "region": "USA",
       "name": "CODE VEIN",
@@ -1410,7 +1410,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16579.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-d/DARK%20SOULS%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA08495",
       "region": "EUR",
       "name": "DARK SOULS™",
@@ -2150,7 +2150,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03991.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2024%20-%20[EU]%20[EN]%20[1.22].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2024%20-%20[EU]%20[EN]%20[1.22].pkg": {
       "title_id": "CUSA40325",
       "region": "EUR",
       "name": "EA SPORTS FC 24",
@@ -2160,7 +2160,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA40325.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2026%20-%20[US]%20[EN]%20[1.09].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20FC%2026%20-%20[US]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA52342",
       "region": "EUR",
       "name": "EA SPORTS FC 26",
@@ -2169,16 +2169,6 @@
       "size": 47611248640,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA52342.png"
-    },
-	"magnet:?xt=urn:btih:665D8ABD69A1728D7FE9A5C86884A5C6CDD1D520&dn=Fifa%2027%20Repack%20%5bR_104%5d.pkg&tr=http%3a%2f%2fbt.t-ru.org%2fann%3fpk%3de325e7a94cd8e7a73e5696b21b6c448a&tr=http%3a%2f%2fretracker.local%2fannounce": {
-      "title_id": "CUSA57220",
-      "region": "EUR",
-      "name": "EA SPORTS FC 27",
-      "version": "01.04",
-      "release": "25-09-2026",
-      "size": 47653060608,
-      "min_fw": "9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2026/09/EA-SPORTS-FC-27-PS4-PKG.jpg"
     },
     "https://archive.org/download/ps4-fpkg-collection-english-e/EA%20SPORTS%20UFC%204%20-%20[US]%20[EN]%20[28.00].pkg": {
       "title_id": "CUSA14204",
@@ -2190,7 +2180,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14204.png"
     },
-    "magnet:?xt=urn:btih:433178481C77851BBF5A72D2BD605F347489DBE2&dn=Elden.Ring&tr=http%3a%2f%2fbt4.t-ru.org%2fann%3fpk%3de325e7a94cd8e7a73e5696b21b6c448a&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-e/ELDEN%20RING%20-%20[EU]%20[EN]%20[1.21].pkg": {
       "title_id": "CUSA18723",
       "region": "EUR",
       "name": "ELDEN RING™",
@@ -2300,7 +2290,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA26997.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-f/F.I.S.T.%20-%20[EU]%20[EN]%20[1.22].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-f/F.I.S.T.%20-%20[EU]%20[EN]%20[1.22].pkg": {
       "title_id": "CUSA28371",
       "region": "EUR",
       "name": "F.I.S.T.",
@@ -2750,7 +2740,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00180.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-g/GONNER2%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-g/GONNER2%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA23371",
       "region": "USA",
       "name": "GONNER2",
@@ -2890,7 +2880,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01623.png"
     },
-    "magnet:?xt=urn:btih:CE8610ACE581F5063D5413CE2A67775C9DDC8E02&dn=God%20of%20War%20Ragnarok&tr=http%3a%2f%2fbt2.t-ru.org%2fann%3fpk%3de325e7a94cd8e7a73e5696b21b6c448a&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-g/God%20of%20War%20Ragnarök%20-%20[US]%20[EN]%20[6.05].pkg": {
       "title_id": "CUSA34384",
       "region": "USA",
       "name": "God of War Ragnarök",
@@ -2940,7 +2930,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA24767.png"
     },
-    "magnet:?xt=urn:btih:5A48BB4D44F68E47AE6E37B2DE69A98EC04AEA78&dn=Gran.Turismo.7&tr=http%3a%2f%2fbt.t-ru.org%2fann%3fpk%3d0cac88148b67a7d77cfb85620f9273a2&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-g/Gran%20Turismo%207%20-%20[US]%20[EN]%20[1.34].pkg": {
       "title_id": "CUSA24769",
       "region": "USA",
       "name": "Gran Turismo® 7",
@@ -3050,7 +3040,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25325.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-h/HEAVY%20RAIN%20-%20[EU]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-h/HEAVY%20RAIN%20-%20[EU]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA02356",
       "region": "EUR",
       "name": "HEAVY RAIN™",
@@ -3290,7 +3280,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04570.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-i/I%20am%20Bread%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-i/I%20am%20Bread%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA03047",
       "region": "EUR",
       "name": "I am Bread",
@@ -3370,7 +3360,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00223.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-j/JUMP%20FORCE%20-%20[EU]%20[EN]%20[3.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-j/JUMP%20FORCE%20-%20[EU]%20[EN]%20[3.03].pkg": {
       "title_id": "CUSA11638",
       "region": "EUR",
       "name": "JUMP FORCE",
@@ -3540,7 +3530,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA10349.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-k/KILLZONE%20SHADOW%20FALL%20-%20[US]%20[EN]%20[1.81].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KILLZONE%20SHADOW%20FALL%20-%20[US]%20[EN]%20[1.81].pkg": {
       "title_id": "CUSA00190",
       "region": "USA",
       "name": "KILLZONE™ SHADOW FALL",
@@ -3700,7 +3690,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA12356.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-l/L.A.%20Noire%20-%20[US]%20[EN]%20[1.04].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-l/L.A.%20Noire%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA09084",
       "region": "USA",
       "name": "L.A. Noire",
@@ -4290,7 +4280,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04384.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-m/MARVEL%20VS.%20CAPCOM%20INFINITE%20-%20[US]%20[EN]%20[1.07].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-m/MARVEL%20VS.%20CAPCOM%20INFINITE%20-%20[US]%20[EN]%20[1.07].pkg": {
       "title_id": "CUSA06400",
       "region": "USA",
       "name": "MARVEL VS. CAPCOM: INFINITE",
@@ -4740,7 +4730,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25600.png"
     },
-    "magnet:?xt=urn:btih:FCEB68CB80CB9B20E9984A8A4DAE3841A1794FF4&dn=Mortal%20Kombat%2011%20Ultimate&tr=http%3a%2f%2fbt4.t-ru.org%2fann%3fpk%3de325e7a94cd8e7a73e5696b21b6c448a&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-m/Mortal%20Kombat%2011%20-%20[EU]%20[EN]%20[1.30].pkg": {
       "title_id": "CUSA11379",
       "region": "EUR",
       "name": "Mortal Kombat 11",
@@ -4860,7 +4850,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA25283.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-n/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%204%20-%20[US]%20[EN]%20[1.11].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-n/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%204%20-%20[US]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA02412",
       "region": "USA",
       "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4",
@@ -5260,7 +5250,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03902.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-o/OMORI%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-o/OMORI%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA33851",
       "region": "USA",
       "name": "OMORI",
@@ -5490,7 +5480,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08364.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-p/P.T.%20-%20[US]%20[EN]%20[1.00].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-p/P.T.%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA01127",
       "region": "USA",
       "name": "P.T.",
@@ -5510,15 +5500,15 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06906.png"
     },
-    "https://vikingfile.com/d/buDDrRddxR/eFootball.PES.2027.Eleven.Patch.Summer.Rev.0.CUSA18740.v1.08.PS4.pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-p/PES%202025%20(Season%20Update)%20-%20[US]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA18676",
       "region": "USA",
-      "name": "PES 2027 Eleven Patch Summer",
+      "name": "PES 2025",
       "version": "01.08",
       "release": "11-15-2013",
-      "size": 87700000000,
+      "size": 71643824128,
       "min_fw": "9.00",
-      "cover_url": "https://link.ps4id.cloud/wp/wp-content/uploads/2026/09/ELEVEN-1024x574.jpg"
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18676.png"
     },
     "https://archive.org/download/ps4-fpkg-collection-english-p/PGA%20TOUR%202K23%20-%20[EU]%20[EN]%20[1.19].pkg": {
       "title_id": "CUSA29107",
@@ -5800,7 +5790,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA05441.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-q/Quake%20-%20[EU]%20[EN]%20[1.08].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-q/Quake%20-%20[EU]%20[EN]%20[1.08].pkg": {
       "title_id": "CUSA24594",
       "region": "EUR",
       "name": "Quake",
@@ -5820,7 +5810,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35422.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-r/RAD%20-%20[US]%20[EN]%20[1.06].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-r/RAD%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA13879",
       "region": "USA",
       "name": "RAD",
@@ -6030,7 +6020,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA31411.png"
     },
-    "magnet:?xt=urn:btih:907DAD7F0D9BC6676A4523C05DE90DE7B105B8D2&dn=Resident%20Evil%204%20Remake%20Deluxe%20Edition&tr=http%3a%2f%2fbt.t-ru.org%2fann%3fpk%3de325e7a94cd8e7a73e5696b21b6c448a&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-r/Resident%20Evil%204%20-%20[EU]%20[EN]%20[1.11].pkg": {
       "title_id": "CUSA33388",
       "region": "EUR",
       "name": "Resident Evil 4",
@@ -6190,7 +6180,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04885.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-s/SAMURAI%20WARRIORS%205%20-%20[EU]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-s/SAMURAI%20WARRIORS%205%20-%20[EU]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA24100",
       "region": "EUR",
       "name": "SAMURAI WARRIORS 5",
@@ -7070,7 +7060,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32056.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-t/TEKKEN%207%20-%20[EU]%20[EN]%20[5.10].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/TEKKEN%207%20-%20[EU]%20[EN]%20[5.10].pkg": {
       "title_id": "CUSA06014",
       "region": "EUR",
       "name": "TEKKEN™7",
@@ -7170,7 +7160,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA13643.png"
     },
-    "magnet:?xt=urn:btih:08dec84c13204c19f312b9b35ba3589570929d3b": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Amazing%20Spider-Man%202%20-%20[US]%20[EN]%20[1.00].pkg": {
       "title_id": "CUSA00239",
       "region": "USA",
       "name": "The Amazing Spider-Man 2™",
@@ -7420,7 +7410,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00556.png"
     },
-    "magnet:?xt=urn:btih:C36914E82DA190F51DF2F453A5FAC3E35D501124&dn=%5bPS4%20Exclusive%5d%20The%20Last%20of%20Us%20Part%20II%20%5bEUR-RUS%5d%20%28v1.09%29&tr=http%3a%2f%2fbt2.t-ru.org%2fann%3fpk%3d6dff6985f43433c2e10452917869f0ab&tr=http%3a%2f%2fretracker.local%2fannounce": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/The%20Last%20of%20Us%20Part%20II%20-%20[EU]%20[EN]%20[1.09].pkg": {
       "title_id": "CUSA10249",
       "region": "EUR",
       "name": "The Last of Us Part II™",
@@ -7890,7 +7880,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA32748.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Ascension%20-%20[US]%20[EN]%20[1.03].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Ascension%20-%20[US]%20[EN]%20[1.03].pkg": {
       "title_id": "CUSA00466",
       "region": "USA",
       "name": "TowerFall Ascension",
@@ -8150,7 +8140,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA16081.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-u/Ultimate%20Chicken%20Horse%20-%20[US]%20[EN]%20[1.10].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-u/Ultimate%20Chicken%20Horse%20-%20[US]%20[EN]%20[1.10].pkg": {
       "title_id": "CUSA08580",
       "region": "USA",
       "name": "Ultimate Chicken Horse",
@@ -8270,7 +8260,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA23081.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-v/Valiant%20Hearts%20Coming%20Home%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-v/Valiant%20Hearts%20Coming%20Home%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA46104",
       "region": "EUR",
       "name": "Valiant Hearts: Coming Home",
@@ -8330,7 +8320,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA20594.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-w/WATCH_DOGS%20-%20[US]%20[EN]%20[1.05].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-w/WATCH_DOGS%20-%20[US]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA00021",
       "region": "USA",
       "name": "WATCH_DOGS™",
@@ -8540,7 +8530,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA08652.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-x/XCOM%202%20-%20[US]%20[EN]%20[1.06].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-x/XCOM%202%20-%20[US]%20[EN]%20[1.06].pkg": {
       "title_id": "CUSA04552",
       "region": "USA",
       "name": "XCOM 2",
@@ -8550,7 +8540,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04552.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-y/YAKUZA%200%20-%20[EU]%20[EN]%20[1.05].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-y/YAKUZA%200%20-%20[EU]%20[EN]%20[1.05].pkg": {
       "title_id": "CUSA05133",
       "region": "EUR",
       "name": "YAKUZA 0",
@@ -8630,7 +8620,7 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA35113.png"
     },
-	"https://archive.org/download/ps4-fpkg-collection-english-z/ZONE%20OF%20THE%20ENDERS%20THE%202nd%20RUNNER%20M∀RS%20-%20[EU]%20[EN]%20[1.01].pkg": {
+    "https://archive.org/download/ps4-fpkg-collection-english-z/ZONE%20OF%20THE%20ENDERS%20THE%202nd%20RUNNER%20M∀RS%20-%20[EU]%20[EN]%20[1.01].pkg": {
       "title_id": "CUSA10576",
       "region": "EUR",
       "name": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS",
@@ -8670,25 +8660,525 @@
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01345.png"
     },
-	 "https://stor2.mocha.my/verify/1792165115-OP6HQ8JZeBC5m5bqo2dLTno6W8I4jMJ_xPfCVMmOu_s/6-79J3zkybXYnUYzlggBt/%5BSuperPSX%5D-Bully.Remaster-CUSA03507-USA-Game-v1.02-(5.05%2B)-PS4.pkg": {
-      "title_id": "CUSA03507",
+    "https://stor2.mocha.my/verify/1791830738-1t1rkQtkWlcRI970CSvEhVsrvKI0KNqomNvLdcdwGuc/8_ws6TdLn9RSno7OlcbtP/%5BSuperPSX%5D-Graveyard.Keeper.II-CUSA58757-USA-Game-PS4.pkg": {
+      "title_id": "CUSA58757",
       "region": "USA",
-      "name": "Bully",
-      "version": "01.02",
-      "release": "11-15-2013",
-      "size": 2400000000,
-      "min_fw": "9.00",
-      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/Bully-PS4-PKG.webp"
+      "name": "Graveyard Keeper II (Base Game)",
+      "version": "1.00",
+      "release": "01-01-2022",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Graveyard+Keeper+II"
     },
-    "https://vikingfile.com/d/daXWrbN3xL/PES%2021%20eFootball%20PES%2021%20Bitbox%20Patch%20Summer%202027%20Base%20Game.pkg": {
-      "title_id": "CUSA18648",
+    "https://stor2.mocha.my/verify/1791829321-4Hw1ZWg7sRrmwofhqdsCJSzRmNIK2CyudLnjAZnSbgo/0hIn27VfuWuSvq8ysd9hN/%5BSuperPSX%5D-G.K.II-CUSA58757-USA-Update%201.03%20(Fix%205.05-6.72-7.xx-9.00-11.00-12.00)-PS4.pkg": {
+      "title_id": "CUSA58757",
+      "region": "USA",
+      "name": "Graveyard Keeper II (Update 1.03)",
+      "version": "1.03",
+      "release": "09-26-2022",
+      "size": 117400000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Graveyard+Keeper+II"
+    },
+    "https://stor2.mocha.my/verify/1791835388-LsC_fgd2BWFiwn2jbxzanzfPsw-TALU5nZR-NfecU_I/B9oghIZg9BR0Duaxn5wgl/%5BSuperPSX%5D-EA.SPORTS.FC.26_CUSA52342_v1.00_%5B12.50%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA52342",
       "region": "EUR",
-      "name": "PES 2027 BITBOX",
-      "version": "01.03",
-      "release": "11-15-2013",
-      "size": 49900000000,
+      "name": "EA SPORTS FC 26 (Base Game)",
+      "version": "1.00",
+      "release": "09-27-2024",
+      "size": 15940000000,
+      "min_fw": "12.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+26"
+    },
+    "https://stor2.mocha.my/verify/1791835657-S65Ea5OMz_Ks_jMrVrRY-UguxQ-X6lBgIK7vyjTmlng/Irn7qpaKGFj93lRn5N6UY/%5BSuperPSX%5D-EA.SPORTS.FC.26_CUSA52342_v1.29_%5B5.05-6.72-7.xx-9.00-11.00-12.00%5D.pkg": {
+      "title_id": "CUSA52342",
+      "region": "EUR",
+      "name": "EA SPORTS FC 26 (Update 1.29)",
+      "version": "1.29",
+      "release": "09-27-2024",
+      "size": 71370000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+26"
+    },
+    "https://stor2.mocha.my/verify/1791838546-cqyCBWUq39QEDXdKx3fsyAZW4FbOVi0AXYG97Ipzl-Q/rGMCa8Rmxve2LsKeudYZH/%5BSuperPSX%5D-EA.SPORTS.FC.26_CUSA52342_Unlock-Offline_OPOISSO893.pkg": {
+      "title_id": "CUSA52342",
+      "region": "EUR",
+      "name": "EA SPORTS FC 26 (Unlock Offline)",
+      "version": "1.00",
+      "release": "09-27-2024",
+      "size": 1048000,
+      "min_fw": "12.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+26"
+    },
+    "https://stor2.mocha.my/verify/1791836183--AHwaNAEDKGXOkNEHrWvLoJWO8WXuCLwm0QaXc7PBaw/XguurieMlp877X-lhX8lZ/%5BSuperPSX.com%5D-God.of.War.Ragnarok_CUSA34386_v1.00_%5B9.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA34386",
+      "region": "EUR",
+      "name": "God of War Ragnarok (Base Game)",
+      "version": "1.00",
+      "release": "11-09-2022",
+      "size": 94910000000,
       "min_fw": "9.00",
-      "cover_url": "https://link.ps4id.cloud/wp/wp-content/uploads/2026/06/eFootball-PES-2027-Bitbox-Patch-PS4-Revisi-1-1-18-screenshot-1024x576.png"
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=God+of+War+Ragnarok"
+    },
+    "https://stor2.mocha.my/verify/1791836309-LvhjZlKHGCJQRflLk40xQi5vpe4QWDTGRqarZIDCGhM/LVKu_-oPqN44cMVLSORNl/%5BSuperPSX%5D-God.of.War.Ragnarok_CUSA34386_v6.05_%5B9.00%5D-PS4.pkg": {
+      "title_id": "CUSA34386",
+      "region": "EUR",
+      "name": "God of War Ragnarok (Update 6.05)",
+      "version": "6.05",
+      "release": "11-09-2022",
+      "size": 25300000000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=God+of+War+Ragnarok"
+    },
+    "Https://stor2.mocha.my/verify/1791837545-lgH-YZoG8yKr5wSwwXhMhW9zsY7BI0A4tTX1dcy3F0Y/yDzEHn7hZpcaavhXEQby3/%5BSuperPSX.com%5D-Call.of.Duty.Modern.Warfare-CUSA08829-USA-Game-CyB1K.pkg": {
+      "title_id": "CUSA08829",
+      "region": "USA",
+      "name": "Call of Duty: Modern Warfare (Base Game)",
+      "version": "1.00",
+      "release": "10-25-2019",
+      "size": 9363000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Call+of+Duty%3A+Modern+Warfare"
+    },
+    "https://stor2.mocha.my/verify/1791837824-xh58elM2SMwly57iussxDgkZ2-qFIslqCTZXMUWKaGk/nfAfad00f16_4wqoZqQEj/%5BSuperPSX.com%5D-COD.MW.2019-CUSA08829-USA-v1.67-%5B5.05-6.72-7.02-7.55-9.00%5D-CyB1K.pkg": {
+      "title_id": "CUSA08829",
+      "region": "USA",
+      "name": "Call of Duty: Modern Warfare (Update 1.67)",
+      "version": "1.67",
+      "release": "10-25-2019",
+      "size": 69410000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Call+of+Duty%3A+Modern+Warfare"
+    },
+    "https://stor2.mocha.my/verify/1791838779-3A1Oip-6KKWOmOZa1p0PX90bctNpsUS7gVvUDVMEQNA/k6120-kRr69sx6hwJuuiZ/%5BSPSX%5D-Naruto.x.Boruto.UNSC-CUSA32836-EUR-Game-PS4-CyB1K.pkg": {
+      "title_id": "CUSA32836",
+      "region": "EUR",
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections (Base Game)",
+      "version": "1.00",
+      "release": "11-16-2023",
+      "size": 24380000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Naruto+x+Boruto%3A+Ultimate+Ninja+Storm+Connections"
+    },
+    "https://stor2.mocha.my/verify/1791838907-iY-UF41qpr4Ij-X5kVTJSjEw_IjclIBCr6-I6e06sGY/hTTxG2NVkowAwPJf1WXk2/%5BSPSX%5D-Naruto.x.Boruto.UNSC-CUSA32836-EUR-Update-v1.50-(9.50%2B)-PS4-CyB1K.pkg": {
+      "title_id": "CUSA32836",
+      "region": "EUR",
+      "name": "Naruto x Boruto: Ultimate Ninja Storm Connections (Update 1.50)",
+      "version": "1.50",
+      "release": "11-16-2023",
+      "size": 12190000000,
+      "min_fw": "9.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Naruto+x+Boruto%3A+Ultimate+Ninja+Storm+Connections"
+    },
+    "https://stor2.mocha.my/verify/1791839044-1141awcQ6UBTR4Eh1XcR9YVzElHDB11wRDynza8UcCE/ikn61raMyCcm-i4-poX-K/%5BSuperPSX.com%5D-WWE.2K25_CUSA48576_v1.00_%5B12.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA48576",
+      "region": "USA",
+      "name": "WWE 2K25 (Base Game)",
+      "version": "1.00",
+      "release": "03-14-2025",
+      "size": 40940000000,
+      "min_fw": "12.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=WWE+2K25"
+    },
+    "https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/61I7jma1z3?response-content-disposition=attachment%3Bfilename%3D%5BSuperPSX%5D-WWE.2K25_CUSA48576_v1.28_BACKPORT_%5B5.05-6.72-7.xx-9.00-11.00-12.00%5D-PS4.pkg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20261012%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261012T210547Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e075d30178ecd3aa1d5b9aaa9ecbf05155469e711482442d42396d55e4a35bfa": {
+      "title_id": "CUSA48576",
+      "region": "USA",
+      "name": "WWE 2K25 (Update 1.28)",
+      "version": "1.28",
+      "release": "03-14-2025",
+      "size": 53680000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=WWE+2K25"
+    },
+    "https://stor2.mocha.my/verify/1791839688-Zdf5Chck6eHSUbakelMUnxWzIJUJ3rRdLqemxL_ek-k/tOaK-LigJqx7HuqhY6F-M/%5BSuperPSX.com%5D-The.Last.of.Us.Part.2-CUSA10249-EUR-Game_v1.00_OPOISSO893.pkg": {
+      "title_id": "CUSA10249",
+      "region": "EUR",
+      "name": "The Last of Us Part II (Base Game)",
+      "version": "1.00",
+      "release": "06-19-2020",
+      "size": 92940000000,
+      "min_fw": "7.02",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=The+Last+of+Us+Part+II"
+    },
+    "https://stor2.mocha.my/verify/1791839835-Wn58KEcsNEtDmpwOoeiwo-jIw4h-jGAIKGMRtMqLxZg/Wlp2a6GjuDfQfJXGWsim7/%5BSuperPSX.com%5D-The.Last.of.Us.Part.2-CUSA10249-EUR-Update-v1.09-%5B7.02%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA10249",
+      "region": "EUR",
+      "name": "The Last of Us Part II (Update 1.09)",
+      "version": "1.09",
+      "release": "06-19-2020",
+      "size": 4896000000,
+      "min_fw": "7.02",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=The+Last+of+Us+Part+II"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1790657458598-_PS4ID_-EA%20SPORTS%20FC%2027%20CUSA57220%20v1.00%20_12.00_%20OPOISSO893.pkg?filename=%5BPS4ID%5D-EA%20SPORTS%20FC%2027%20CUSA57220%20v1.00%20%5B12.00%5D%20OPOISSO893.pkg": {
+      "title_id": "CUSA57220",
+      "region": "EUR",
+      "name": "EA SPORTS FC 27 (Base Game)",
+      "version": "1.00",
+      "release": "09-27-2025",
+      "size": 41520000000,
+      "min_fw": "12.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+27"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1790657458531-_PS4ID_-EA%20SPORTS%20FC%2027%20CUSA57220%20UNLOCK%20OFFLINE%20OPOISSO893.pkg?filename=%5BPS4ID%5D-EA%20SPORTS%20FC%2027%20CUSA57220%20UNLOCK%20OFFLINE%20OPOISSO893.pkg": {
+      "title_id": "CUSA57220",
+      "region": "EUR",
+      "name": "EA SPORTS FC 27 (Unlock Offline)",
+      "version": "1.00",
+      "release": "09-27-2025",
+      "size": 1048000,
+      "min_fw": "12.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+27"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1791174193370-_PS4ID_-EA.SPORTS.FC.27_CUSA57220_v1.05_BACKPORT__5.05-6.72-7.xx-9.00-11.00-12.00__OPOISSO893.pkg?filename=%5BPS4ID%5D-EA.SPORTS.FC.27_CUSA57220_v1.05_BACKPORT_%5B5.05-6.72-7.xx-9.00-11.00-12.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA57220",
+      "region": "EUR",
+      "name": "EA SPORTS FC 27 (Update 1.05)",
+      "version": "1.03",
+      "release": "09-27-2025",
+      "size": 21860000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=EA+SPORTS+FC+27"
+    },
+    "https://stor2.mocha.my/verify/1791866697-WdCNdZ94Yy-H8Tf8FC0OZzFIUMtwQ8BaK2CHXfx35VM/3SfZ157vuUk7OkNARFqVR/%5BSuperPSX.com%5D-It.Takes.Two_CUSA16742_v1.03_FullGame_%5B8.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA16742",
+      "region": "EUR",
+      "name": "It Takes Two (Base Game & Update 1.03)",
+      "version": "1.03",
+      "release": "03-26-2021",
+      "size": 36860000000,
+      "min_fw": "8.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=It+Takes+Two"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1790467576585-_PS4ID__-Ghost.of.Tsushima_CUSA13323_FULLGAME_v2.24__9.00-11.00_-PS4.pkg?filename=%5BPS4ID%60%5D-Ghost.of.Tsushima_CUSA13323_FULLGAME_v2.24_%5B9.00-11.00%5D-PS4.pkg": {
+      "title_id": "CUSA13323",
+      "region": "EUR",
+      "name": "Ghost of Tsushima (Base Game & Update 2.24)",
+      "version": "2.24",
+      "release": "07-17-2020",
+      "size": 48650000000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Ghost+of+Tsushima"
+    },
+    "https://stor2.mocha.my/verify/1791867440-xTztiCJbyVd0Yrq0gr8XqzQs5C8OojwTcNh7qgAg1GM/FV4drsLNn-bq0MOZqArgw/%5BSPSX%5D-Assassins.Creed.Mirage-CUSA33151-EUR-Game-PS4-TheWorldismine-CyB1K.pkg": {
+      "title_id": "CUSA33151",
+      "region": "EUR",
+      "name": "Assassin's Creed Mirage (Base Game)",
+      "version": "1.00",
+      "release": "10-05-2023",
+      "size": 23340000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Assassin%27s+Creed+Mirage"
+    },
+    "https://download.akirabox.com/uploads/users/AY2xm0Ao3RO1/coTZtGa02hK2fqgnkde-%5BPS4ID%5D-CUSA33151_00-A0111-V0100-TheWorldismine-CyB1K.pkg?access=1791976118441.n6YvMRhD7JsOr9xx5cO0HGtrmiKHK-7dRerpegID_-8": {
+      "title_id": "CUSA33151",
+      "region": "EUR",
+      "name": "Assassin's Creed Mirage (Update 1.11)",
+      "version": "1.11",
+      "release": "10-05-2023",
+      "size": 17450000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Assassin%27s+Creed+Mirage"
+    },
+    "https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/OMq1Rnm37b?response-content-disposition=attachment%3Bfilename%3D%5BSuperPSX%5D-Grand.Theft.Auto.V%E2%80%8B-CUSA00419-USA-Game-PS4-CyB1K.pkg.pkg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20261013%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261013T103205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=307dd9a41a9d287af02eeb30c566da99c0b6aea63beb56cfa8183555784d1c56": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V (Base Game)",
+      "version": "1.00",
+      "release": "11-18-2014",
+      "size": 44750000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Grand+Theft+Auto+V"
+    },
+    "https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/vrgK1QRTze?response-content-disposition=attachment%3Bfilename%3D%5BSuperPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Update-%28v1.57%29-PS4.pkg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20261013%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261013T103319Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=66ec5fb575eaea743dad57fb1cc1087e0b35578480268a75428d6c02f3769e99": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V (Update 1.57)",
+      "version": "1.57",
+      "release": "11-18-2014",
+      "size": 51860000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Grand+Theft+Auto+V"
+    },
+    "https://stor2.mocha.my/verify/1791904272-5SKcpSh234P1Usme3VRliiuS1G4hyjsMLAPAo91Z4eY/rbp1JxXZoTRmSA-N0vvi-/%5BSPSX%5D-Need.for.Speed.Heat.DE-CUSA15090-EUR-Game-(6.72%2B)-PS4_OPOISSO893.pkg": {
+      "title_id": "CUSA15090",
+      "region": "EUR",
+      "name": "Need for Speed Heat (Base Game)",
+      "version": "1.00",
+      "release": "11-08-2019",
+      "size": 26300000000,
+      "min_fw": "6.72",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Need+for+Speed+Heat"
+    },
+    "https://stor2.mocha.my/verify/1791904407-XL4pWHcgg5YR60035Bb75Kpx9yj1wMd_XxYLW8hE0X8/P8i5DOLCwlMU27lKa9g69/%5BSPSX%5D-Need.for.Speed.Heat.DE-CUSA15090-EUR-Update-1.07-(6.72%2B)-PS4-OPOISSO893.pkg": {
+      "title_id": "CUSA15090",
+      "region": "EUR",
+      "name": "Need for Speed Heat (Update 1.07)",
+      "version": "1.07",
+      "release": "11-08-2019",
+      "size": 8106000000,
+      "min_fw": "6.72",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Need+for+Speed+Heat"
+    },
+    "https://cdn-files.alcyone.so/users/ba95f0f8-3117-4539-bfcf-23f3b631724f/1771897514219-_DLPSGAME.COM_-CUSA00717.PS4-DUPLEX.pkg?filename=%5BDLPSGAME.COM%5D-CUSA00717.PS4-DUPLEX.pkg": {
+      "title_id": "CUSA00717",
+      "region": "USA",
+      "name": "Detroit: Become Human (Base Game)",
+      "version": "1.00",
+      "release": "05-25-2018",
+      "size": 42410000000,
+      "min_fw": "5.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Detroit%3A+Become+Human"
+    },
+    "https://cdn-files.alcyone.so/users/ba95f0f8-3117-4539-bfcf-23f3b631724f/1771897514224-_DLPSGAME.COM_-CUSA00717.Update.v1.08.PS4-DUPLEX.pkg?filename=%5BDLPSGAME.COM%5D-CUSA00717.Update.v1.08.PS4-DUPLEX.pkg": {
+      "title_id": "CUSA00717",
+      "region": "USA",
+      "name": "Detroit: Become Human (Update 1.08)",
+      "version": "1.08",
+      "release": "05-25-2018",
+      "size": 698400000,
+      "min_fw": "5.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Detroit%3A+Become+Human"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1778829423463-_PS4ID_-Mafia%20Definitive%20Edition.v1.00-18097.pkg?filename=%5BPS4ID%5D-Mafia%20Definitive%20Edition.v1.00-18097.pkg": {
+      "title_id": "CUSA18097",
+      "region": "EUR",
+      "name": "Mafia Definitive Edition (Base Game)",
+      "version": "1.00",
+      "release": "09-25-2020",
+      "size": 37160000000,
+      "min_fw": "7.55",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Mafia+Definitive+Edition"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1778831427617-_PS4ID_-Mafia.Definitive.Edition.Update.v1.04-CUSA18097.pkg?filename=%5BPS4ID%5D-Mafia.Definitive.Edition.Update.v1.04-CUSA18097.pkg": {
+      "title_id": "CUSA18097",
+      "region": "EUR",
+      "name": "Mafia Definitive Edition (Update 1.04)",
+      "version": "1.04",
+      "release": "09-25-2020",
+      "size": 7322000000,
+      "min_fw": "7.55",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Mafia+Definitive+Edition"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1777637284933-_PS4ID_-re4r.v1.00-33388.pkg?filename=%5BPS4ID%5D-re4r.v1.00-33388.pkg": {
+      "title_id": "CUSA33388",
+      "region": "EUR",
+      "name": "Resident Evil 4 Remake (Base Game)",
+      "version": "1.00",
+      "release": "03-24-2023",
+      "size": 26150000000,
+      "min_fw": "10.01",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Resident+Evil+4+Remake"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1777636303279-_PS4ID_-re4r.v1.12bp-33388.pkg?filename=%5BPS4ID%5D-re4r.v1.12bp-33388.pkg": {
+      "title_id": "CUSA33388",
+      "region": "EUR",
+      "name": "Resident Evil 4 Remake (Update 1.12)",
+      "version": "1.12",
+      "release": "03-24-2023",
+      "size": 6678000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Resident+Evil+4+Remake"
+    },
+    "https://stor2.mocha.my/verify/1791919224-maMKuG0k7-hmtgM-r3Sm8SnhHDKcwvloMFwj3zJxe24/MmBn9yRVpYz-4cF5dt9bc/%5BSPSX%5D-Horizon.Forbidden.West_CUSA24705_v1.00_%5B9.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA24705",
+      "region": "EUR",
+      "name": "Horizon Forbidden West (Base Game)",
+      "version": "1.00",
+      "release": "02-18-2022",
+      "size": 80990000000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Horizon+Forbidden+West"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1779002150171-_PS4ID_-Horizon.Forbidden.West_CUSA24705_v1.18__9.00__OPOISSO893.pkg?filename=%5BPS4ID%5D-Horizon.Forbidden.West_CUSA24705_v1.18_%5B9.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA24705",
+      "region": "EUR",
+      "name": "Horizon Forbidden West (Update 1.18)",
+      "version": "1.18",
+      "release": "02-18-2022",
+      "size": 2470000000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Horizon+Forbidden+West"
+    },
+    "https://stor2.mocha.my/verify/1791920776-d-5AaBH4GT3Ku5oorgfWCo8fRuTrVaHxHwrRfMeltSA/OfelDUZs9_5s8vfDW63Oe/%5BSPSX%5D-Marvels.Spider-Man_CUSA11993_v1.00_%5B6.72%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA11993",
+      "region": "EUR",
+      "name": "Marvel's Spider-Man (Base Game)",
+      "version": "1.00",
+      "release": "09-07-2018",
+      "size": 40440000000,
+      "min_fw": "6.72",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Marvel%27s+Spider-Man"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1783326580632-_PS4ID_-Marvels.Spider-Man_CUSA11993_v1.19__6.72_-PS4.pkg?filename=%5BPS4ID%5D-Marvels.Spider-Man_CUSA11993_v1.19_%5B6.72%5D-PS4.pkg": {
+      "title_id": "CUSA11993",
+      "region": "EUR",
+      "name": "Marvel's Spider-Man (Update 1.19)",
+      "version": "1.19",
+      "release": "09-07-2018",
+      "size": 16310000000,
+      "min_fw": "6.72",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Marvel%27s+Spider-Man"
+    },
+    "https://ep.vikingfile.com/download/6rHB2bXf58/archive/STAR.WARS.Jedi.Survivor_CUSA33778_v1.03_FULLGAME_[11.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA33778",
+      "region": "EUR",
+      "name": "STAR WARS Jedi: Survivor (Base Game & Update 1.03)",
+      "version": "1.03",
+      "release": "09-17-2024",
+      "size": 54920000000,
+      "min_fw": "11.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=STAR+WARS+Jedi%3A+Survivor"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1789788980081-Marvels.Spider-Man.Miles.Morales_CUSA17776_v1.00__7.50__OPOISSO893.pkg?filename=Marvels.Spider-Man.Miles.Morales_CUSA17776_v1.00_%5B7.50%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA17776",
+      "region": "EUR",
+      "name": "Marvel's Spider-Man: Miles Morales (Base Game)",
+      "version": "1.00",
+      "release": "11-12-2020",
+      "size": 38290000000,
+      "min_fw": "7.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Marvel%27s+Spider-Man%3A+Miles+Morales"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1787240119365-Marvels.Spider-Man.Miles.Morales_CUSA17776_v1.14__7.50__OPOISSO893.pkg?filename=Marvels.Spider-Man.Miles.Morales_CUSA17776_v1.14_%5B7.50%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA17776",
+      "region": "EUR",
+      "name": "Marvel's Spider-Man: Miles Morales (Update 1.14)",
+      "version": "1.14",
+      "release": "11-12-2020",
+      "size": 11020000000,
+      "min_fw": "7.50",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Marvel%27s+Spider-Man%3A+Miles+Morales"
+    },
+    "https://stor2.mocha.my/verify/1792132974-TYtO3uksFBweU_9DJC8iqzDgTEyLsX6C3xfx4f-otgQ/Q12WyBYWlAKG-rPDneFsD/%5BSuperPSX.com%5D-%5BCUSA11260%5D%20%5BGame%5D%20%5Bv01.00%5D%20DEATH%20STRANDING.pkg": {
+      "title_id": "CUSA11260",
+      "region": "USA",
+      "name": "Death Stranding (Base Game)",
+      "version": "1.00",
+      "release": "11-08-2019",
+      "size": 448100000,
+      "min_fw": "7.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Death+Stranding"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1777624255369-_PS4ID_-Death.Stranding-CUSA11260-USA-Update-v1.13-PS4.pkg?filename=%5BPS4ID%5D-Death.Stranding-CUSA11260-USA-Update-v1.13-PS4.pkg": {
+      "title_id": "CUSA11260",
+      "region": "USA",
+      "name": "Death Stranding (Update 1.13)",
+      "version": "1.13",
+      "release": "11-08-2019",
+      "size": 1160000,
+      "min_fw": "7.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Death+Stranding"
+    },
+    "https://stor2.mocha.my/verify/1792133398-eDi2P9sD2i43giTo95gzIstZqeAOWDhB3iZhN7-mtrQ/1mBLAhAPdCCd1UYUkxM4d/%5BSPSX%5D-Sonic.Racing.CrossWorlds_CUSA35016_v1.00_%5B12.02%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA35016",
+      "region": "USA",
+      "name": "Sonic Racing CrossWorlds (Base Game)",
+      "version": "1.00",
+      "release": "09-01-2024",
+      "size": 1173000000,
+      "min_fw": "12.02",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Sonic+Racing+CrossWorlds"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1783523364373-_PS4ID_-sonic.racing.cross.worlds.v1.41bp-35016.pkg?filename=%5BPS4ID%5D-sonic.racing.cross.worlds.v1.41bp-35016.pkg": {
+      "title_id": "CUSA35016",
+      "region": "USA",
+      "name": "Sonic Racing CrossWorlds (Update 1.41)",
+      "version": "1.41",
+      "release": "09-01-2024",
+      "size": 127500000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Sonic+Racing+CrossWorlds"
+    },
+    "https://stor2.mocha.my/verify/1792133997-ok-Hr74Txy60koZ_WXU1Ush_lKa2jA2qyTb5mMAbAjs/6EDoH48I5yYUCEAsIacSS/Stray_CUSA24899_v1.00_%5B9.00%5D_OPOISSO893.pkg": {
+      "title_id": "CUSA24899",
+      "region": "EUR",
+      "name": "Stray (Base Game)",
+      "version": "1.00",
+      "release": "07-19-2022",
+      "size": 63100000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Stray"
+    },
+    "https://stor2.mocha.my/verify/1792134087-JW4X0FtuO27vroP26--MwqfETNNroS8AfKmO4yn9jvQ/QkEvcHJ4d85WSWeJsbCz8/%5BSuperPSX%5D-Stray_CUSA24899_v1.04_%5B9.00%5D-PS4.pkg": {
+      "title_id": "CUSA24899",
+      "region": "EUR",
+      "name": "Stray (Update 1.04)",
+      "version": "1.04",
+      "release": "07-19-2022",
+      "size": 56200000,
+      "min_fw": "9.00",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Stray"
+    },
+    "https://stor2.mocha.my/verify/1792134184-7jj4yxIU68IKiUc04MYo-q_AFXBQNHwTMfFscwTcAME/CE6Bd_hcRWwHATtyfi8ST/%5BSuperPSX%5D-CUSA00341_UNCHARTED_4_A_THIEFS_END_FXDv1.00_%5BFW505%5D.pkg": {
+      "title_id": "CUSA00341",
+      "region": "USA",
+      "name": "Uncharted 4: A Thief's End (Base Game)",
+      "version": "1.00",
+      "release": "05-10-2016",
+      "size": 44180000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Uncharted+4%3A+A+Thief%27s+End"
+    },
+    "https://stor2.mocha.my/verify/1792134305-g6Idw8m_6m-87seMJZPdKUf1oR5lk2VynEl1iYg0i68/wk9hf0JJUFasliJ15SxG4/%5BSPSX%5D-Uncharted.4.A.Thiefs.End-CUSA00341-USA-v1.33-%5B5.05%2B%5D-PS4.pkg": {
+      "title_id": "CUSA00341",
+      "region": "USA",
+      "name": "Uncharted 4: A Thief's End (Update 1.33)",
+      "version": "1.33",
+      "release": "05-10-2016",
+      "size": 1375000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Uncharted+4%3A+A+Thief%27s+End"
+    },
+    "https://tcf.mocha.my/verify/1792174573-VF4HhOzn17e_TjnNNJQkD2eLtS9Iz3fS6-kFA38h7CQ/cPAiStp09q8MAA2IPjwr1/%5BTelegram%20PlayStation%20Pulse%5D%20Assassins%20Creed%204%20Black%20Flag%20Gold%20Edition%20CUSA00009%20Game%20%2B%20Update%20v1.04%20DUPLEX.pkg": {
+      "title_id": "CUSA00009",
+      "region": "EUR",
+      "name": "Assassin's Creed IV: Black Flag (Update 1.04)",
+      "version": "1.04",
+      "release": "11-22-2013",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Assassin%27s+Creed+IV%3A+Black+Flag"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1790591036422-_PS4ID_-Call.of.Duty.Advanced.Warfare-CUSA00851-EUR-Game-(5.05_)-PS4.pkg?filename=%5BPS4ID%5D-Call.of.Duty.Advanced.Warfare-CUSA00851-EUR-Game-(5.05%2B)-PS4.pkg": {
+      "title_id": "CUSA00851",
+      "region": "EUR",
+      "name": "Call of Duty: Advanced Warfare (Base Game)",
+      "version": "1.00",
+      "release": "11-04-2014",
+      "size": 454600000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Call+of+Duty%3A+Advanced+Warfare"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1776173092689-_PS4ID_-codaw.v1.24.update-00851.pkg?filename=%5BPS4ID%5D-codaw.v1.24.update-00851.pkg": {
+      "title_id": "CUSA00851",
+      "region": "EUR",
+      "name": "Call of Duty: Advanced Warfare (Update 1.24)",
+      "version": "1.24",
+      "release": "11-04-2014",
+      "size": 61800000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=Call+of+Duty%3A+Advanced+Warfare"
+    },
+    "https://stor2.mocha.my/verify/1792140766-SSLw1C4p0V31BuAiHrxvasr49nX_ieN2m43kix_hyEA/gU0pYsDaYl_Hrn8P8lZ6F/%5BSuperPSX%5D-The.Witcher.3.Wild.Hunt.GOTY-CUSA05571-EUR-Game-(5.05%2B)-PS4.pkg": {
+      "title_id": "CUSA05571",
+      "region": "EUR",
+      "name": "The Witcher 3: Wild Hunt - Game of the Year Edition (Base Game)",
+      "version": "1.00",
+      "release": "08-30-2016",
+      "size": 37510000000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=The+Witcher+3%3A+Wild+Hunt+-+GOTY"
+    },
+    "https://cdn-files.alcyone.so/users/62dd4c06-a3d9-43f0-84bc-2a4353449825/1778045793262-_PS4ID_-tw3gotye.v1.62.update-05574.pkg?filename=%5BPS4ID%5D-tw3gotye.v1.62.update-05574.pkg": {
+      "title_id": "CUSA05574",
+      "region": "USA",
+      "name": "The Witcher 3: Wild Hunt - Game of the Year Edition (Update 1.62)",
+      "version": "1.62",
+      "release": "08-30-2016",
+      "size": 135190000,
+      "min_fw": "5.05",
+      "cover_url": "https://placehold.co/600x900/222222/ffffff.png?text=The+Witcher+3%3A+Wild+Hunt+-+GOTY"
     }
   }
 }
